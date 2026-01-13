@@ -32,6 +32,42 @@
                     <textarea id="url-output" class="glass-input" rows="5" readonly></textarea>
                     <button id="copy-btn" class="glass-btn" style="width:100%; margin-top:10px;">結果をコピー</button>
                 </div>
+
+                <!-- SEO Content -->
+                <div class="seo-section">
+                    <article class="seo-content">
+                        <h2>URLエンコード・デコードツールとは？</h2>
+                        <p>
+                            URLに含まれる日本語や特殊記号を、Webシステムで安全に扱える形式（%E3%81...など）に変換するツールです。
+                            逆に、エンコードされた文字列を人間が読める元の文字に戻すこともできます。
+                        </p>
+
+                        <h2>主な特徴</h2>
+                        <ul>
+                            <li><strong>完全対応</strong>: 日本語ドメインやパラメータに含まれる記号も正しく処理します。</li>
+                            <li><strong>JavaScript標準準拠</strong>: `encodeURIComponent` および `decodeURIComponent`
+                                関数を使用しており、Web標準の挙動と一致します。</li>
+                            <li><strong>コピペで簡単</strong>: 入力エリアにテキストを貼り付けるだけで、変換モードの切り替えもスムーズに行えます。</li>
+                        </ul>
+
+                        <h2>よくある質問 (FAQ)</h2>
+                        <div class="faq-item">
+                            <div class="faq-question">URL全体をエンコードすべきですか？</div>
+                            <div class="faq-answer">通常は「/」や「:」などの区切り文字まで変換されてしまうため、パラメータ部分（?q=...）のみをエンコードすることをお勧めします。
+                            </div>
+                        </div>
+                        <div class="faq-item">
+                            <div class="faq-question">文字化けが直りません</div>
+                            <div class="faq-answer">
+                                元の文字コードがUTF-8以外（Shift_JISなど）の場合、正しくデコードできないことがあります。このツールはUTF-8を前提としています。</div>
+                        </div>
+                    </article>
+
+                    <div class="share-area">
+                        <a href="#" class="share-btn share-x">Xでシェア</a>
+                        <a href="#" class="share-btn share-line">LINEで送る</a>
+                    </div>
+                </div>
             </div>
         </div>
     </div>

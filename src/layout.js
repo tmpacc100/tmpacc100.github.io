@@ -162,6 +162,77 @@ export function setupLayout(pageId, pageTitle) {
     }
   };
 
+
+  // 4. Breadcrumb Schema
+  const breadcrumbSchema = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [{
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": baseUrl
+    }]
+  };
+
+  if (pageId !== 'home') {
+    breadcrumbSchema.itemListElement.push({
+      "@type": "ListItem",
+      "position": 2,
+      "name": pageTitle,
+      "item": currentUrl
+    });
+  }
+
+  const scriptBread = document.createElement('script');
+  scriptBread.type = 'application/ld+json';
+  scriptBread.textContent = JSON.stringify(breadcrumbSchema);
+  document.head.appendChild(scriptBread);
+
+  // 5. FAQ Schema (Dynamic scan)
+  const faqItems = document.querySelectorAll('.faq-item');
+  if (faqItems.length > 0) {
+    const faqSchema = {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": []
+    };
+
+    faqItems.forEach(item => {
+      const q = item.querySelector('.faq-question').textContent.replace('Q.', '').trim();
+      const a = item.querySelector('.faq-answer').textContent.replace('A.', '').trim();
+      faqSchema.mainEntity.push({
+        "@type": "Question",
+        "name": q,
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": a
+        }
+      });
+    });
+
+    const scriptFaq = document.createElement('script');
+    scriptFaq.type = 'application/ld+json';
+    scriptFaq.textContent = JSON.stringify(faqSchema);
+    document.head.appendChild(scriptFaq);
+  }
+
+  // Share Buttons Logic
+  setTimeout(() => {
+    const shareX = document.querySelector('.share-x');
+    const shareLine = document.querySelector('.share-line');
+    const shareText = `【${pageTitle}】便利ツール見つけた！ #WebToolsSuite`;
+
+    if (shareX) {
+      shareX.href = `https://twitter.com/intent/tweet?text=${encodeURIComponent(shareText)}&url=${encodeURIComponent(currentUrl)}`;
+      shareX.target = "_blank";
+    }
+    if (shareLine) {
+      shareLine.href = `https://social-plugins.line.me/lineit/share?url=${encodeURIComponent(currentUrl)}`;
+      shareLine.target = "_blank";
+    }
+  }, 500);
+
   let scriptAuth = document.querySelector('#json-ld');
   if (!scriptAuth) {
     scriptAuth = document.createElement('script');

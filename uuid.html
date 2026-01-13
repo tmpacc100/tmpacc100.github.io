@@ -31,6 +31,39 @@
                         placeholder="生成されたUUIDがここに表示されます"></textarea>
                     <button id="copy-btn" class="glass-btn" style="width:100%; margin-top:10px;">結果をコピー</button>
                 </div>
+
+                <!-- SEO Content -->
+                <div class="seo-section">
+                    <article class="seo-content">
+                        <h2>UUID生成ツール（v4）とは？</h2>
+                        <p>
+                            一意な識別子であるUUID（Universally Unique Identifier）のバージョン4を生成するツールです。
+                            データベースの主キー、セッションID、一時ファイル名など、重複しないIDが必要な場面で利用されます。
+                        </p>
+
+                        <h2>主な特徴</h2>
+                        <ul>
+                            <li><strong>一括生成</strong>: 最大1000個までのUUIDを一度に生成できます。</li>
+                            <li><strong>Version 4準拠</strong>: 乱数ベースのUUID v4仕様に完全準拠したIDを作成します。</li>
+                            <li><strong>高速・安全</strong>: JavaScriptの暗号論的疑似乱数生成器を使用しており、高速かつ衝突確率が極めて低いIDを生成します。</li>
+                        </ul>
+
+                        <h2>よくある質問 (FAQ)</h2>
+                        <div class="faq-item">
+                            <div class="faq-question">生成されたUUIDが重複することはありますか？</div>
+                            <div class="faq-answer">理論上はあり得ますが、確率は天文学的に低いため、実用上で重複を心配する必要はありません。</div>
+                        </div>
+                        <div class="faq-item">
+                            <div class="faq-question">ハイフンなしのUUIDは作れますか？</div>
+                            <div class="faq-answer">現在はハイフンありの形式（標準）のみ対応しています。ハイフン削除機能は今後追加予定です。</div>
+                        </div>
+                    </article>
+
+                    <div class="share-area">
+                        <a href="#" class="share-btn share-x">Xでシェア</a>
+                        <a href="#" class="share-btn share-line">LINEで送る</a>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
