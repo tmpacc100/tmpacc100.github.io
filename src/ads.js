@@ -1,5 +1,6 @@
 export function initAds() {
     try {
+        const adClient = "pub-1298950542115439"; // User provided ID
         const adSlots = document.querySelectorAll('.adsbygoogle');
         if (adSlots.length > 0) {
             adSlots.forEach(slot => {
