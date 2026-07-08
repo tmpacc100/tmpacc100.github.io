@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>ClipNest Privacy Policy</title>
+<style>
+  body { font: 15px -apple-system, sans-serif; max-width: 720px; margin: 40px auto; padding: 0 20px; color: #222; line-height: 1.55; }
+  h1 { font-size: 28px; }
+  h2 { margin-top: 28px; font-size: 18px; }
+  code { background: #f4f4f4; padding: 1px 5px; border-radius: 3px; }
+</style>
+</head>
+<body>
+<h1>ClipNest Privacy Policy</h1>
+<p><strong>Effective: 2026-05-10</strong></p>
+
+<h2>What we collect</h2>
+<p><strong>Nothing.</strong> ClipNest is shipped without the network entitlement. The app
+literally cannot make outbound network requests, send analytics, or contact a remote server.</p>
+
+<h2>What stays on your Mac</h2>
+<ul>
+  <li>Clipboard history (text, images, files, color codes) — stored in the app's sandbox at
+      <code>~/Library/Containers/app.clipnest.ClipNest/</code>.</li>
+  <li>Snippets, boards, and trigger definitions — same sandbox location.</li>
+  <li>Settings (hotkey, history limit, blocklist) — UserDefaults inside the same sandbox.</li>
+</ul>
+
+<h2>Optional iCloud sync</h2>
+<p>If you enable iCloud sync in Settings, only your <strong>snippets and boards</strong>
+are mirrored to your <em>private</em> CloudKit database in your Apple ID's iCloud account.
+Your clipboard history is <strong>never</strong> synced. ClipNest has no server: the data
+travels directly between your Macs via Apple's infrastructure, and we cannot access it.</p>
+
+<h2>Accessibility permission</h2>
+<p>If you choose to use the snippet trigger feature, ClipNest requests Accessibility access
+to detect trigger keystrokes (like <code>;sig</code>) as you type. The app only watches for
+matches with snippets you have defined. It does not log, store, or transmit your keystrokes.</p>
+
+<h2>Password managers</h2>
+<p>Trigger expansion is automatically suppressed in apps whose bundle identifier matches
+known password managers (1Password, Bitwarden, LastPass, Dashlane, Keychain Access, etc.).
+You can edit this list in Settings → Triggers.</p>
+
+<h2>Contact</h2>
+<p>Questions: see the support URL on the App Store listing.</p>
+</body>
+</html>
