@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://tmpacc100.github.io/sitemap.xml
+Feed: https://tmpacc100.github.io/feed.xml

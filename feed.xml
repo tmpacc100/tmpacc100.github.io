@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>tmpacc100 Apps</title>
+  <link>https://tmpacc100.github.io/</link>
+  <description>個人開発アプリと関連する記事の更新情報です。</description>
+  <language>ja</language>
+  <lastBuildDate>Thu, 09 Jul 2026 00:00:00 +0000</lastBuildDate>
+  <item>
+    <title>タイパ疲れを減らす時間管理: ぜんぶ効率化しない考え方</title>
+    <link>https://tmpacc100.github.io/articles/taipa-fatigue-time-design/</link>
+    <guid isPermaLink="false">article:taipa-fatigue-time-design</guid>
+    <description>タイパを意識しすぎて疲れる人向けに、効率タイムとじっくりタイムを分ける時間デザインを紹介します。</description>
+    <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>朝の支度を落ち着かせるには、残り時間ではなく「ゆとり分」を見る</title>
+    <link>https://tmpacc100.github.io/articles/morning-routine-buffer/</link>
+    <guid isPermaLink="false">article:morning-routine-buffer</guid>
+    <description>朝のルーティンで焦りやすい人向けに、出発までの余裕を数字で見る方法を紹介します。</description>
+    <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>買って後悔しないためのチェックリスト: 買う前に見るべきこと</title>
+    <link>https://tmpacc100.github.io/articles/before-buying-checklist/</link>
+    <guid isPermaLink="false">article:before-buying-checklist</guid>
+    <description>衝動買いを減らし、予算・条件・比較ポイントを整理する買い物チェックリストの作り方です。</description>
+    <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ピアノ練習中の譜めくり問題を減らす: 自動譜めくりアプリの使いどころ</title>
+    <link>https://tmpacc100.github.io/articles/piano-auto-page-turner/</link>
+    <guid isPermaLink="false">article:piano-auto-page-turner</guid>
+    <description>ピアノ演奏中に手を止めず、楽譜上の現在位置を追いかける自動譜めくりの使い方を紹介します。</description>
+    <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Macのクリップボード履歴はローカルで十分: スニペット展開までまとめる</title>
+    <link>https://tmpacc100.github.io/articles/local-mac-clipboard-manager/</link>
+    <guid isPermaLink="false">article:local-mac-clipboard-manager</guid>
+    <description>Macでコピー履歴とスニペット展開を安全に使うため、ローカルファーストな設計の利点を紹介します。</description>
+    <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>青空文庫をスマホで読み続けるには、縦書きと短い読書時間が効く</title>
+    <link>https://tmpacc100.github.io/articles/aozora-vertical-reading/</link>
+    <guid isPermaLink="false">article:aozora-vertical-reading</guid>
+    <description>青空文庫の名作をスマホで読みやすくするため、縦書き・ルビ・読書時間の使い方を紹介します。</description>
+    <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Belajar Bahasa Jepang untuk Kerja di Jepang: Mulai dari Kosakata dan Wawancara</title>
+    <link>https://tmpacc100.github.io/articles/belajar-bahasa-jepang-kerja/</link>
+    <guid isPermaLink="false">article:belajar-bahasa-jepang-kerja</guid>
+    <description>Panduan singkat untuk pembelajar Indonesia yang ingin belajar bahasa Jepang untuk kerja, dengan latihan offline dan wawancara.</description>
+    <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>えらんでタイパ</title>
+    <link>https://tmpacc100.github.io/erande-taipa/</link>
+    <guid isPermaLink="false">app:erande-taipa</guid>
+    <description>効率タイムとじっくりタイムを自分で選び、満たされ度つきでふりかえる時間デザインアプリ。</description>
+    <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>あさゆとり</title>
+    <link>https://tmpacc100.github.io/asayutori/</link>
+    <guid isPermaLink="false">app:asayutori</guid>
+    <description>出発までの±ゆとり分をリアルタイム表示し、朝の準備を落ち着かせるルーティンアプリ。</description>
+    <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>かうまえ</title>
+    <link>https://tmpacc100.github.io/kaumae/</link>
+    <guid isPermaLink="false">app:kaumae</guid>
+    <description>予算、条件、チェックリストを整理して、買い物の失敗を減らす買い物台帳アプリ。</description>
+    <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>OpusScore</title>
+    <link>https://tmpacc100.github.io/opusscore/</link>
+    <guid isPermaLink="false">app:opusscore</guid>
+    <description>ピアノ演奏を端末内で解析し、楽譜上の現在位置を追いかける自動譜めくりアプリ。</description>
+    <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ClipNest</title>
+    <link>https://tmpacc100.github.io/clipnest/</link>
+    <guid isPermaLink="false">app:clipnest</guid>
+    <description>Clipboard history and snippets, local on your Mac. No account and no network access.</description>
+    <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>栞</title>
+    <link>https://tmpacc100.github.io/shiori/</link>
+    <guid isPermaLink="false">app:shiori</guid>
+    <description>青空文庫の名作を、美しい縦書きとルビで読める読書アプリ。</description>
+    <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>GoNihon</title>
+    <link>https://tmpacc100.github.io/gonihon/</link>
+    <guid isPermaLink="false">app:gonihon</guid>
+    <description>Offline Japanese lessons, vocabulary, mock tests, and interview practice for Indonesian speakers.</description>
+    <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
+  </item>
+</channel>
+</rss>

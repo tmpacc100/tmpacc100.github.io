@@ -90,4 +90,58 @@
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
-<url><loc>https://tmpacc100.github.io/articles/</loc><lastmod>2026-07-09</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url><url><loc>https://tmpacc100.github.io/articles/taipa-fatigue-time-design/</loc><lastmod>2026-07-09</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url><url><loc>https://tmpacc100.github.io/articles/morning-routine-buffer/</loc><lastmod>2026-07-09</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url><url><loc>https://tmpacc100.github.io/articles/before-buying-checklist/</loc><lastmod>2026-07-09</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url><url><loc>https://tmpacc100.github.io/articles/piano-auto-page-turner/</loc><lastmod>2026-07-09</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url><url><loc>https://tmpacc100.github.io/articles/local-mac-clipboard-manager/</loc><lastmod>2026-07-09</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url><url><loc>https://tmpacc100.github.io/articles/aozora-vertical-reading/</loc><lastmod>2026-07-09</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url><url><loc>https://tmpacc100.github.io/articles/belajar-bahasa-jepang-kerja/</loc><lastmod>2026-07-09</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url></urlset>
+  <url>
+    <loc>https://tmpacc100.github.io/articles/</loc>
+    <lastmod>2026-07-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://tmpacc100.github.io/articles/taipa-fatigue-time-design/</loc>
+    <lastmod>2026-07-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://tmpacc100.github.io/articles/morning-routine-buffer/</loc>
+    <lastmod>2026-07-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://tmpacc100.github.io/articles/before-buying-checklist/</loc>
+    <lastmod>2026-07-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://tmpacc100.github.io/articles/piano-auto-page-turner/</loc>
+    <lastmod>2026-07-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://tmpacc100.github.io/articles/local-mac-clipboard-manager/</loc>
+    <lastmod>2026-07-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://tmpacc100.github.io/articles/aozora-vertical-reading/</loc>
+    <lastmod>2026-07-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://tmpacc100.github.io/articles/belajar-bahasa-jepang-kerja/</loc>
+    <lastmod>2026-07-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://tmpacc100.github.io/feed.xml</loc>
+    <lastmod>2026-07-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.3</priority>
+  </url>
+</urlset>
