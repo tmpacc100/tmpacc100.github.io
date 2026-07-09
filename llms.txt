@@ -5,6 +5,7 @@ tmpacc100 Apps is a set of indie apps for time design, morning routines, shoppin
 ## Primary Pages
 - Apps: https://tmpacc100.github.io/
 - News: https://tmpacc100.github.io/news/
+- Links: https://tmpacc100.github.io/links/
 - Press Kit: https://tmpacc100.github.io/press/
 - Articles: https://tmpacc100.github.io/articles/
 - Campaign links: https://tmpacc100.github.io/go/

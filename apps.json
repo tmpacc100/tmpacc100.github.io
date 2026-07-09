@@ -2,6 +2,7 @@
   "generatedAt": "2026-07-09",
   "site": "https://tmpacc100.github.io/",
   "contact": "asd95179517@gmail.com",
+  "linksHub": "https://tmpacc100.github.io/links/",
   "apps": [
     {
       "name": "えらんでタイパ",
@@ -11,13 +12,16 @@
       "headline": "ぜんぶ効率じゃなくていい。",
       "description": "効率タイムとじっくりタイムを自分で選ぶ「禁止しない」時間デザインアプリ。",
       "landingPage": "https://tmpacc100.github.io/erande-taipa/",
+      "linkPage": "https://tmpacc100.github.io/links/erande-taipa/",
       "pressKit": "https://tmpacc100.github.io/press/erande-taipa/",
       "storeUrl": null,
       "storeHttpStatus": "pending",
       "assets": {
         "squarePng": "https://tmpacc100.github.io/assets/social/erande-taipa-square.png",
         "storyPng": "https://tmpacc100.github.io/assets/social/erande-taipa-story.png",
-        "shortVideoMp4": "https://tmpacc100.github.io/assets/video/erande-taipa-short.mp4"
+        "shortVideoMp4": "https://tmpacc100.github.io/assets/video/erande-taipa-short.mp4",
+        "qrPng": "https://tmpacc100.github.io/assets/qr/erande-taipa.png",
+        "qrCardPng": "https://tmpacc100.github.io/assets/qr/erande-taipa-card.png"
       },
       "shareLinks": {
         "X organic": "https://tmpacc100.github.io/go/erande-taipa/x/",
@@ -42,13 +46,16 @@
       "headline": "朝のゆとりが数字で見える。",
       "description": "出発までの±ゆとり分とLive Activityで、朝の支度を落ち着かせるルーティンアプリ。",
       "landingPage": "https://tmpacc100.github.io/asayutori/",
+      "linkPage": "https://tmpacc100.github.io/links/asayutori/",
       "pressKit": "https://tmpacc100.github.io/press/asayutori/",
       "storeUrl": null,
       "storeHttpStatus": "pending",
       "assets": {
         "squarePng": "https://tmpacc100.github.io/assets/social/asayutori-square.png",
         "storyPng": "https://tmpacc100.github.io/assets/social/asayutori-story.png",
-        "shortVideoMp4": "https://tmpacc100.github.io/assets/video/asayutori-short.mp4"
+        "shortVideoMp4": "https://tmpacc100.github.io/assets/video/asayutori-short.mp4",
+        "qrPng": "https://tmpacc100.github.io/assets/qr/asayutori.png",
+        "qrCardPng": "https://tmpacc100.github.io/assets/qr/asayutori-card.png"
       },
       "shareLinks": {
         "X organic": "https://tmpacc100.github.io/go/asayutori/x/",
@@ -73,13 +80,16 @@
       "headline": "買うまえに、ひと呼吸。",
       "description": "チェックリストと任意のAIリサーチガイドで、買い物の失敗を減らす台帳アプリ。",
       "landingPage": "https://tmpacc100.github.io/kaumae/",
+      "linkPage": "https://tmpacc100.github.io/links/kaumae/",
       "pressKit": "https://tmpacc100.github.io/press/kaumae/",
       "storeUrl": null,
       "storeHttpStatus": "pending",
       "assets": {
         "squarePng": "https://tmpacc100.github.io/assets/social/kaumae-square.png",
         "storyPng": "https://tmpacc100.github.io/assets/social/kaumae-story.png",
-        "shortVideoMp4": "https://tmpacc100.github.io/assets/video/kaumae-short.mp4"
+        "shortVideoMp4": "https://tmpacc100.github.io/assets/video/kaumae-short.mp4",
+        "qrPng": "https://tmpacc100.github.io/assets/qr/kaumae.png",
+        "qrCardPng": "https://tmpacc100.github.io/assets/qr/kaumae-card.png"
       },
       "shareLinks": {
         "X organic": "https://tmpacc100.github.io/go/kaumae/x/",
@@ -104,13 +114,16 @@
       "headline": "演奏を聴いて、自動で譜めくり。",
       "description": "ピアノ演奏を端末内で解析し、楽譜上の現在位置を追いかけるiPhone/iPadアプリ。",
       "landingPage": "https://tmpacc100.github.io/opusscore/",
+      "linkPage": "https://tmpacc100.github.io/links/opusscore/",
       "pressKit": "https://tmpacc100.github.io/press/opusscore/",
       "storeUrl": "https://apps.apple.com/jp/app/apple-store/id6783845152",
       "storeHttpStatus": "200",
       "assets": {
         "squarePng": "https://tmpacc100.github.io/assets/social/opusscore-square.png",
         "storyPng": "https://tmpacc100.github.io/assets/social/opusscore-story.png",
-        "shortVideoMp4": "https://tmpacc100.github.io/assets/video/opusscore-short.mp4"
+        "shortVideoMp4": "https://tmpacc100.github.io/assets/video/opusscore-short.mp4",
+        "qrPng": "https://tmpacc100.github.io/assets/qr/opusscore.png",
+        "qrCardPng": "https://tmpacc100.github.io/assets/qr/opusscore-card.png"
       },
       "shareLinks": {
         "X organic": "https://tmpacc100.github.io/go/opusscore/x/",
@@ -135,13 +148,16 @@
       "headline": "Clipboard history and snippets, local on your Mac.",
       "description": "Macのクリップボード履歴とスニペット展開を1つに。ネットワーク権限なし、買い切り、ローカルファーストなmacOSユーティリティ。",
       "landingPage": "https://tmpacc100.github.io/clipnest/",
+      "linkPage": "https://tmpacc100.github.io/links/clipnest/",
       "pressKit": "https://tmpacc100.github.io/press/clipnest/",
       "storeUrl": "https://apps.apple.com/us/app/apple-store/id6777420616",
       "storeHttpStatus": "200",
       "assets": {
         "squarePng": "https://tmpacc100.github.io/assets/social/clipnest-square.png",
         "storyPng": "https://tmpacc100.github.io/assets/social/clipnest-story.png",
-        "shortVideoMp4": "https://tmpacc100.github.io/assets/video/clipnest-short.mp4"
+        "shortVideoMp4": "https://tmpacc100.github.io/assets/video/clipnest-short.mp4",
+        "qrPng": "https://tmpacc100.github.io/assets/qr/clipnest.png",
+        "qrCardPng": "https://tmpacc100.github.io/assets/qr/clipnest-card.png"
       },
       "shareLinks": {
         "X organic": "https://tmpacc100.github.io/go/clipnest/x/",
@@ -166,13 +182,16 @@
       "headline": "1日10分、名作を。",
       "description": "青空文庫の名作を、美しい縦書きとルビで読めるiPhone/iPad/Mac読書アプリ。",
       "landingPage": "https://tmpacc100.github.io/shiori/",
+      "linkPage": "https://tmpacc100.github.io/links/shiori/",
       "pressKit": "https://tmpacc100.github.io/press/shiori/",
       "storeUrl": "https://apps.apple.com/jp/app/apple-store/id6787727235",
       "storeHttpStatus": "404",
       "assets": {
         "squarePng": "https://tmpacc100.github.io/assets/social/shiori-square.png",
         "storyPng": "https://tmpacc100.github.io/assets/social/shiori-story.png",
-        "shortVideoMp4": "https://tmpacc100.github.io/assets/video/shiori-short.mp4"
+        "shortVideoMp4": "https://tmpacc100.github.io/assets/video/shiori-short.mp4",
+        "qrPng": "https://tmpacc100.github.io/assets/qr/shiori.png",
+        "qrCardPng": "https://tmpacc100.github.io/assets/qr/shiori-card.png"
       },
       "shareLinks": {
         "X organic": "https://tmpacc100.github.io/go/shiori/x/",
@@ -197,13 +216,16 @@
       "headline": "Belajar bahasa Jepang untuk kerja di Jepang.",
       "description": "Indonesian speakers向けのオフライン日本語学習アプリ。語彙、模擬試験、面接練習に対応。",
       "landingPage": "https://tmpacc100.github.io/gonihon/",
+      "linkPage": "https://tmpacc100.github.io/links/gonihon/",
       "pressKit": "https://tmpacc100.github.io/press/gonihon/",
       "storeUrl": "https://apps.apple.com/id/app/apple-store/id6778385065",
       "storeHttpStatus": "200",
       "assets": {
         "squarePng": "https://tmpacc100.github.io/assets/social/gonihon-square.png",
         "storyPng": "https://tmpacc100.github.io/assets/social/gonihon-story.png",
-        "shortVideoMp4": "https://tmpacc100.github.io/assets/video/gonihon-short.mp4"
+        "shortVideoMp4": "https://tmpacc100.github.io/assets/video/gonihon-short.mp4",
+        "qrPng": "https://tmpacc100.github.io/assets/qr/gonihon.png",
+        "qrCardPng": "https://tmpacc100.github.io/assets/qr/gonihon-card.png"
       },
       "shareLinks": {
         "X organic": "https://tmpacc100.github.io/go/gonihon/x/",
