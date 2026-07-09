@@ -1,0 +1,224 @@
+{
+  "generatedAt": "2026-07-09",
+  "site": "https://tmpacc100.github.io/",
+  "contact": "asd95179517@gmail.com",
+  "apps": [
+    {
+      "name": "えらんでタイパ",
+      "slug": "erande-taipa",
+      "category": "時間デザイン",
+      "platform": "iOS",
+      "headline": "ぜんぶ効率じゃなくていい。",
+      "description": "効率タイムとじっくりタイムを自分で選ぶ「禁止しない」時間デザインアプリ。",
+      "landingPage": "https://tmpacc100.github.io/erande-taipa/",
+      "pressKit": "https://tmpacc100.github.io/press/erande-taipa/",
+      "storeUrl": null,
+      "storeHttpStatus": "pending",
+      "assets": {
+        "squarePng": "https://tmpacc100.github.io/assets/social/erande-taipa-square.png",
+        "storyPng": "https://tmpacc100.github.io/assets/social/erande-taipa-story.png",
+        "shortVideoMp4": "https://tmpacc100.github.io/assets/video/erande-taipa-short.mp4"
+      },
+      "shareLinks": {
+        "X organic": "https://tmpacc100.github.io/go/erande-taipa/x/",
+        "Threads organic": "https://tmpacc100.github.io/go/erande-taipa/threads/",
+        "TikTok organic": "https://tmpacc100.github.io/go/erande-taipa/tiktok/",
+        "YouTube Shorts": "https://tmpacc100.github.io/go/erande-taipa/youtube-shorts/",
+        "Reddit community": "https://tmpacc100.github.io/go/erande-taipa/reddit/",
+        "Product Hunt": "https://tmpacc100.github.io/go/erande-taipa/producthunt/",
+        "Hacker News": "https://tmpacc100.github.io/go/erande-taipa/hackernews/",
+        "note article": "https://tmpacc100.github.io/go/erande-taipa/note/",
+        "Email outreach": "https://tmpacc100.github.io/go/erande-taipa/email/",
+        "Meta ads draft": "https://tmpacc100.github.io/go/erande-taipa/meta/",
+        "Google ads draft": "https://tmpacc100.github.io/go/erande-taipa/google/",
+        "Apple Ads Search draft": "https://tmpacc100.github.io/go/erande-taipa/apple-search/"
+      }
+    },
+    {
+      "name": "あさゆとり",
+      "slug": "asayutori",
+      "category": "朝ルーティン",
+      "platform": "iOS",
+      "headline": "朝のゆとりが数字で見える。",
+      "description": "出発までの±ゆとり分とLive Activityで、朝の支度を落ち着かせるルーティンアプリ。",
+      "landingPage": "https://tmpacc100.github.io/asayutori/",
+      "pressKit": "https://tmpacc100.github.io/press/asayutori/",
+      "storeUrl": null,
+      "storeHttpStatus": "pending",
+      "assets": {
+        "squarePng": "https://tmpacc100.github.io/assets/social/asayutori-square.png",
+        "storyPng": "https://tmpacc100.github.io/assets/social/asayutori-story.png",
+        "shortVideoMp4": "https://tmpacc100.github.io/assets/video/asayutori-short.mp4"
+      },
+      "shareLinks": {
+        "X organic": "https://tmpacc100.github.io/go/asayutori/x/",
+        "Threads organic": "https://tmpacc100.github.io/go/asayutori/threads/",
+        "TikTok organic": "https://tmpacc100.github.io/go/asayutori/tiktok/",
+        "YouTube Shorts": "https://tmpacc100.github.io/go/asayutori/youtube-shorts/",
+        "Reddit community": "https://tmpacc100.github.io/go/asayutori/reddit/",
+        "Product Hunt": "https://tmpacc100.github.io/go/asayutori/producthunt/",
+        "Hacker News": "https://tmpacc100.github.io/go/asayutori/hackernews/",
+        "note article": "https://tmpacc100.github.io/go/asayutori/note/",
+        "Email outreach": "https://tmpacc100.github.io/go/asayutori/email/",
+        "Meta ads draft": "https://tmpacc100.github.io/go/asayutori/meta/",
+        "Google ads draft": "https://tmpacc100.github.io/go/asayutori/google/",
+        "Apple Ads Search draft": "https://tmpacc100.github.io/go/asayutori/apple-search/"
+      }
+    },
+    {
+      "name": "かうまえ",
+      "slug": "kaumae",
+      "category": "買い物チェック",
+      "platform": "iOS",
+      "headline": "買うまえに、ひと呼吸。",
+      "description": "チェックリストと任意のAIリサーチガイドで、買い物の失敗を減らす台帳アプリ。",
+      "landingPage": "https://tmpacc100.github.io/kaumae/",
+      "pressKit": "https://tmpacc100.github.io/press/kaumae/",
+      "storeUrl": null,
+      "storeHttpStatus": "pending",
+      "assets": {
+        "squarePng": "https://tmpacc100.github.io/assets/social/kaumae-square.png",
+        "storyPng": "https://tmpacc100.github.io/assets/social/kaumae-story.png",
+        "shortVideoMp4": "https://tmpacc100.github.io/assets/video/kaumae-short.mp4"
+      },
+      "shareLinks": {
+        "X organic": "https://tmpacc100.github.io/go/kaumae/x/",
+        "Threads organic": "https://tmpacc100.github.io/go/kaumae/threads/",
+        "TikTok organic": "https://tmpacc100.github.io/go/kaumae/tiktok/",
+        "YouTube Shorts": "https://tmpacc100.github.io/go/kaumae/youtube-shorts/",
+        "Reddit community": "https://tmpacc100.github.io/go/kaumae/reddit/",
+        "Product Hunt": "https://tmpacc100.github.io/go/kaumae/producthunt/",
+        "Hacker News": "https://tmpacc100.github.io/go/kaumae/hackernews/",
+        "note article": "https://tmpacc100.github.io/go/kaumae/note/",
+        "Email outreach": "https://tmpacc100.github.io/go/kaumae/email/",
+        "Meta ads draft": "https://tmpacc100.github.io/go/kaumae/meta/",
+        "Google ads draft": "https://tmpacc100.github.io/go/kaumae/google/",
+        "Apple Ads Search draft": "https://tmpacc100.github.io/go/kaumae/apple-search/"
+      }
+    },
+    {
+      "name": "OpusScore",
+      "slug": "opusscore",
+      "category": "音楽練習",
+      "platform": "iOS / iPadOS",
+      "headline": "演奏を聴いて、自動で譜めくり。",
+      "description": "ピアノ演奏を端末内で解析し、楽譜上の現在位置を追いかけるiPhone/iPadアプリ。",
+      "landingPage": "https://tmpacc100.github.io/opusscore/",
+      "pressKit": "https://tmpacc100.github.io/press/opusscore/",
+      "storeUrl": "https://apps.apple.com/jp/app/apple-store/id6783845152",
+      "storeHttpStatus": "200",
+      "assets": {
+        "squarePng": "https://tmpacc100.github.io/assets/social/opusscore-square.png",
+        "storyPng": "https://tmpacc100.github.io/assets/social/opusscore-story.png",
+        "shortVideoMp4": "https://tmpacc100.github.io/assets/video/opusscore-short.mp4"
+      },
+      "shareLinks": {
+        "X organic": "https://tmpacc100.github.io/go/opusscore/x/",
+        "Threads organic": "https://tmpacc100.github.io/go/opusscore/threads/",
+        "TikTok organic": "https://tmpacc100.github.io/go/opusscore/tiktok/",
+        "YouTube Shorts": "https://tmpacc100.github.io/go/opusscore/youtube-shorts/",
+        "Reddit community": "https://tmpacc100.github.io/go/opusscore/reddit/",
+        "Product Hunt": "https://tmpacc100.github.io/go/opusscore/producthunt/",
+        "Hacker News": "https://tmpacc100.github.io/go/opusscore/hackernews/",
+        "note article": "https://tmpacc100.github.io/go/opusscore/note/",
+        "Email outreach": "https://tmpacc100.github.io/go/opusscore/email/",
+        "Meta ads draft": "https://tmpacc100.github.io/go/opusscore/meta/",
+        "Google ads draft": "https://tmpacc100.github.io/go/opusscore/google/",
+        "Apple Ads Search draft": "https://tmpacc100.github.io/go/opusscore/apple-search/"
+      }
+    },
+    {
+      "name": "ClipNest",
+      "slug": "clipnest",
+      "category": "Macユーティリティ",
+      "platform": "macOS",
+      "headline": "Clipboard history and snippets, local on your Mac.",
+      "description": "Macのクリップボード履歴とスニペット展開を1つに。ネットワーク権限なし、買い切り、ローカルファーストなmacOSユーティリティ。",
+      "landingPage": "https://tmpacc100.github.io/clipnest/",
+      "pressKit": "https://tmpacc100.github.io/press/clipnest/",
+      "storeUrl": "https://apps.apple.com/us/app/apple-store/id6777420616",
+      "storeHttpStatus": "200",
+      "assets": {
+        "squarePng": "https://tmpacc100.github.io/assets/social/clipnest-square.png",
+        "storyPng": "https://tmpacc100.github.io/assets/social/clipnest-story.png",
+        "shortVideoMp4": "https://tmpacc100.github.io/assets/video/clipnest-short.mp4"
+      },
+      "shareLinks": {
+        "X organic": "https://tmpacc100.github.io/go/clipnest/x/",
+        "Threads organic": "https://tmpacc100.github.io/go/clipnest/threads/",
+        "TikTok organic": "https://tmpacc100.github.io/go/clipnest/tiktok/",
+        "YouTube Shorts": "https://tmpacc100.github.io/go/clipnest/youtube-shorts/",
+        "Reddit community": "https://tmpacc100.github.io/go/clipnest/reddit/",
+        "Product Hunt": "https://tmpacc100.github.io/go/clipnest/producthunt/",
+        "Hacker News": "https://tmpacc100.github.io/go/clipnest/hackernews/",
+        "note article": "https://tmpacc100.github.io/go/clipnest/note/",
+        "Email outreach": "https://tmpacc100.github.io/go/clipnest/email/",
+        "Meta ads draft": "https://tmpacc100.github.io/go/clipnest/meta/",
+        "Google ads draft": "https://tmpacc100.github.io/go/clipnest/google/",
+        "Apple Ads Search draft": "https://tmpacc100.github.io/go/clipnest/apple-search/"
+      }
+    },
+    {
+      "name": "栞",
+      "slug": "shiori",
+      "category": "読書",
+      "platform": "iOS / iPadOS / macOS",
+      "headline": "1日10分、名作を。",
+      "description": "青空文庫の名作を、美しい縦書きとルビで読めるiPhone/iPad/Mac読書アプリ。",
+      "landingPage": "https://tmpacc100.github.io/shiori/",
+      "pressKit": "https://tmpacc100.github.io/press/shiori/",
+      "storeUrl": "https://apps.apple.com/jp/app/apple-store/id6787727235",
+      "storeHttpStatus": "404",
+      "assets": {
+        "squarePng": "https://tmpacc100.github.io/assets/social/shiori-square.png",
+        "storyPng": "https://tmpacc100.github.io/assets/social/shiori-story.png",
+        "shortVideoMp4": "https://tmpacc100.github.io/assets/video/shiori-short.mp4"
+      },
+      "shareLinks": {
+        "X organic": "https://tmpacc100.github.io/go/shiori/x/",
+        "Threads organic": "https://tmpacc100.github.io/go/shiori/threads/",
+        "TikTok organic": "https://tmpacc100.github.io/go/shiori/tiktok/",
+        "YouTube Shorts": "https://tmpacc100.github.io/go/shiori/youtube-shorts/",
+        "Reddit community": "https://tmpacc100.github.io/go/shiori/reddit/",
+        "Product Hunt": "https://tmpacc100.github.io/go/shiori/producthunt/",
+        "Hacker News": "https://tmpacc100.github.io/go/shiori/hackernews/",
+        "note article": "https://tmpacc100.github.io/go/shiori/note/",
+        "Email outreach": "https://tmpacc100.github.io/go/shiori/email/",
+        "Meta ads draft": "https://tmpacc100.github.io/go/shiori/meta/",
+        "Google ads draft": "https://tmpacc100.github.io/go/shiori/google/",
+        "Apple Ads Search draft": "https://tmpacc100.github.io/go/shiori/apple-search/"
+      }
+    },
+    {
+      "name": "GoNihon",
+      "slug": "gonihon",
+      "category": "日本語学習",
+      "platform": "iOS / Android / Web",
+      "headline": "Belajar bahasa Jepang untuk kerja di Jepang.",
+      "description": "Indonesian speakers向けのオフライン日本語学習アプリ。語彙、模擬試験、面接練習に対応。",
+      "landingPage": "https://tmpacc100.github.io/gonihon/",
+      "pressKit": "https://tmpacc100.github.io/press/gonihon/",
+      "storeUrl": "https://apps.apple.com/id/app/apple-store/id6778385065",
+      "storeHttpStatus": "200",
+      "assets": {
+        "squarePng": "https://tmpacc100.github.io/assets/social/gonihon-square.png",
+        "storyPng": "https://tmpacc100.github.io/assets/social/gonihon-story.png",
+        "shortVideoMp4": "https://tmpacc100.github.io/assets/video/gonihon-short.mp4"
+      },
+      "shareLinks": {
+        "X organic": "https://tmpacc100.github.io/go/gonihon/x/",
+        "Threads organic": "https://tmpacc100.github.io/go/gonihon/threads/",
+        "TikTok organic": "https://tmpacc100.github.io/go/gonihon/tiktok/",
+        "YouTube Shorts": "https://tmpacc100.github.io/go/gonihon/youtube-shorts/",
+        "Reddit community": "https://tmpacc100.github.io/go/gonihon/reddit/",
+        "Product Hunt": "https://tmpacc100.github.io/go/gonihon/producthunt/",
+        "Hacker News": "https://tmpacc100.github.io/go/gonihon/hackernews/",
+        "note article": "https://tmpacc100.github.io/go/gonihon/note/",
+        "Email outreach": "https://tmpacc100.github.io/go/gonihon/email/",
+        "Meta ads draft": "https://tmpacc100.github.io/go/gonihon/meta/",
+        "Google ads draft": "https://tmpacc100.github.io/go/gonihon/google/",
+        "Apple Ads Search draft": "https://tmpacc100.github.io/go/gonihon/apple-search/"
+      }
+    }
+  ]
+}

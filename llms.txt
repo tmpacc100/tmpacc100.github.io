@@ -1,0 +1,23 @@
+# tmpacc100 Apps
+
+tmpacc100 Apps is a set of indie apps for time design, morning routines, shopping decisions, piano score following, local Mac clipboard workflows, Aozora Bunko reading, and Japanese learning for Indonesian speakers.
+
+## Primary Pages
+- Apps: https://tmpacc100.github.io/
+- News: https://tmpacc100.github.io/news/
+- Press Kit: https://tmpacc100.github.io/press/
+- Articles: https://tmpacc100.github.io/articles/
+- Campaign links: https://tmpacc100.github.io/go/
+- Machine-readable app catalog: https://tmpacc100.github.io/apps.json
+
+## Apps
+- えらんでタイパ: 効率タイムとじっくりタイムを自分で選ぶ「禁止しない」時間デザインアプリ。 https://tmpacc100.github.io/erande-taipa/
+- あさゆとり: 出発までの±ゆとり分とLive Activityで、朝の支度を落ち着かせるルーティンアプリ。 https://tmpacc100.github.io/asayutori/
+- かうまえ: チェックリストと任意のAIリサーチガイドで、買い物の失敗を減らす台帳アプリ。 https://tmpacc100.github.io/kaumae/
+- OpusScore: ピアノ演奏を端末内で解析し、楽譜上の現在位置を追いかけるiPhone/iPadアプリ。 https://tmpacc100.github.io/opusscore/
+- ClipNest: Macのクリップボード履歴とスニペット展開を1つに。ネットワーク権限なし、買い切り、ローカルファーストなmacOSユーティリティ。 https://tmpacc100.github.io/clipnest/
+- 栞: 青空文庫の名作を、美しい縦書きとルビで読めるiPhone/iPad/Mac読書アプリ。 https://tmpacc100.github.io/shiori/
+- GoNihon: Indonesian speakers向けのオフライン日本語学習アプリ。語彙、模擬試験、面接練習に対応。 https://tmpacc100.github.io/gonihon/
+
+## Contact
+- Email: asd95179517@gmail.com
