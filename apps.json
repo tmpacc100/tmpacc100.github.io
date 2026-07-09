@@ -420,5 +420,11 @@
       ]
     }
   ],
-  "useCasesHub": "https://tmpacc100.github.io/use-cases/"
+  "useCasesHub": "https://tmpacc100.github.io/use-cases/",
+  "mediaKit": {
+    "page": "https://tmpacc100.github.io/media-kit/",
+    "zip": "https://tmpacc100.github.io/assets/downloads/tmpacc100-apps-media-kit.zip",
+    "bytes": 5341709,
+    "sha256": "e1533cec7678f871c2203d7d18d7e7b628b2ba21bcfc6ab6397f28b42158c624"
+  }
 }
