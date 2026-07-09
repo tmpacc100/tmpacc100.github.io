@@ -1,0 +1,164 @@
+target,channel,app_slug,submission_url,title_or_subject,body,primary_url,asset_url,media_kit_url,outreach_url,priority,status,guardrail
+Product Hunt,launch community,clipnest,https://www.producthunt.com/launch,ClipNest - Local clipboard history and snippets for Mac,"ClipNest is a local-first Mac utility that combines clipboard history and reusable snippets. It is built for fast search, pinning, and text expansion without accounts or network access.
+
+Primary link: https://apps.apple.com/us/app/apple-store/id6777420616
+Media kit: https://tmpacc100.github.io/media-kit/
+
+First comment draft: I built ClipNest because clipboard history often contains private text, and I wanted a quiet Mac tool that does not need cloud sync or an account. Feedback on the workflow, copy, and pricing is welcome.",https://apps.apple.com/us/app/apple-store/id6777420616,https://tmpacc100.github.io/assets/social/clipnest-square.png,https://tmpacc100.github.io/media-kit/,https://tmpacc100.github.io/outreach/,high,ready_to_submit_after_product_hunt_account_login,Do not ask for upvotes; disclose maker relationship.
+Hacker News Show HN,developer community,opusscore,https://news.ycombinator.com/showhn.html,"Show HN: OpusScore, an iPhone/iPad app that follows piano scores from microphone input","I built an iPhone/iPad app for piano practice that listens locally through the microphone and follows the current position in a score. The goal is to reduce manual page turning during practice. It supports sample pieces and MusicXML/MXL import.
+
+App/LP: https://tmpacc100.github.io/opusscore/
+Store: https://apps.apple.com/jp/app/apple-store/id6783845152
+Media kit: https://tmpacc100.github.io/media-kit/
+
+I would appreciate technical and product feedback, especially from people who practice piano or work with digital sheet music.",https://apps.apple.com/jp/app/apple-store/id6783845152,https://tmpacc100.github.io/assets/video/opusscore-short.mp4,https://tmpacc100.github.io/media-kit/,https://tmpacc100.github.io/outreach/,high,ready_to_submit_after_hn_account_login,Show HN should point to something people can try; be ready to answer technical questions.
+Hacker News Show HN,developer community,clipnest,https://news.ycombinator.com/showhn.html,"Show HN: ClipNest, a local-first clipboard manager and snippet app for Mac","I built a Mac utility that keeps clipboard history and reusable snippets local. The main design constraint is no account and no network access, because clipboard history can contain sensitive text.
+
+App/LP: https://tmpacc100.github.io/clipnest/
+Store: https://apps.apple.com/us/app/apple-store/id6777420616
+Media kit: https://tmpacc100.github.io/media-kit/
+
+Feedback on the positioning, local-first design, and snippet workflow would be helpful.",https://apps.apple.com/us/app/apple-store/id6777420616,https://tmpacc100.github.io/assets/video/clipnest-short.mp4,https://tmpacc100.github.io/media-kit/,https://tmpacc100.github.io/outreach/,high,ready_to_submit_after_hn_account_login,"Use feedback-oriented copy, not ad copy."
+r/macapps,Reddit,clipnest,https://www.reddit.com/r/macapps/,I made a local-first Mac clipboard manager with snippets and no network access,"Disclosure: I am the maker.
+
+I built ClipNest because I wanted clipboard history and snippets without account sync or network access. It is a Mac App Store app for searching clipboard history, pinning reusable items, and expanding snippets.
+
+LP: https://tmpacc100.github.io/clipnest/
+Media kit / screenshots: https://tmpacc100.github.io/media-kit/
+
+I would like feedback from Mac users on what feels missing from the workflow.",https://apps.apple.com/us/app/apple-store/id6777420616,https://tmpacc100.github.io/assets/social/clipnest-square.png,https://tmpacc100.github.io/media-kit/,https://tmpacc100.github.io/outreach/,high,requires_subreddit_rule_check_before_posting,Check subreddit rules immediately before posting; disclose maker relationship.
+r/piano,Reddit,opusscore,https://www.reddit.com/r/piano/,I am building an app that listens to piano practice and follows the score. What would make it useful?,"Disclosure: I am the maker.
+
+OpusScore is an iPhone/iPad app that listens locally and follows the current position in a piano score. The goal is to reduce manual page turning and make practice smoother.
+
+LP: https://tmpacc100.github.io/opusscore/
+Store: https://apps.apple.com/jp/app/apple-store/id6783845152
+Short demo: https://tmpacc100.github.io/assets/video/opusscore-short.mp4
+
+I would appreciate feedback from pianists on score-following accuracy expectations and practice workflow.",https://apps.apple.com/jp/app/apple-store/id6783845152,https://tmpacc100.github.io/assets/video/opusscore-short.mp4,https://tmpacc100.github.io/media-kit/,https://tmpacc100.github.io/outreach/,high,requires_subreddit_rule_check_before_posting,Ask for feedback rather than posting a pure promotion.
+Indonesian Japanese-learning communities,community post,gonihon,manual_selection_required,Aplikasi belajar bahasa Jepang offline untuk kerja di Jepang,"Halo, saya membuat GoNihon untuk pembelajar Indonesia yang ingin belajar bahasa Jepang untuk kerja di Jepang.
+
+Fitur utama: vocabulary, listening, mock test, interview practice, XP, streak, dan progress lokal tanpa akun.
+
+App/LP: https://tmpacc100.github.io/gonihon/
+Store: https://apps.apple.com/id/app/apple-store/id6778385065
+Media kit: https://tmpacc100.github.io/media-kit/
+
+Saya mencari masukan dari pembelajar Indonesia: bagian apa yang paling penting untuk persiapan kerja atau wawancara?",https://apps.apple.com/id/app/apple-store/id6778385065,https://tmpacc100.github.io/assets/video/gonihon-short.mp4,https://tmpacc100.github.io/media-kit/,https://tmpacc100.github.io/outreach/,high,requires_community_selection_and_rule_check,Use Indonesian-language value first; disclose maker relationship.
+note,Japanese article,erande-taipa,https://note.com/,タイパ疲れを減らす時間デザインアプリを作りました,"この記事では「タイパ疲れ、時間管理、ふりかえり」の課題から、えらんでタイパを作った理由を書きます。
+
+効率タイムとじっくりタイムを自分で選ぶ「禁止しない」時間デザインアプリ。
+
+1. どんな困りごとがあったか
+2. 既存の方法で足りなかったこと
+3. アプリでどう解くか
+4. 実際の使い方
+5. 今後改善したいこと
+
+LP: https://tmpacc100.github.io/erande-taipa/
+用途別ページ: https://tmpacc100.github.io/use-cases/
+Media Kit: https://tmpacc100.github.io/media-kit/",https://tmpacc100.github.io/erande-taipa/,https://tmpacc100.github.io/assets/social/erande-taipa-square.png,https://tmpacc100.github.io/media-kit/,https://tmpacc100.github.io/outreach/,medium,ready_to_draft_after_note_login,Article should be useful before the app link appears; avoid link-only posts.
+note,Japanese article,asayutori,https://note.com/,朝の支度を±ゆとり分で見える化するアプリを作りました,"この記事では「朝ルーティン、遅刻防止、Live Activity」の課題から、あさゆとりを作った理由を書きます。
+
+出発までの±ゆとり分とLive Activityで、朝の支度を落ち着かせるルーティンアプリ。
+
+1. どんな困りごとがあったか
+2. 既存の方法で足りなかったこと
+3. アプリでどう解くか
+4. 実際の使い方
+5. 今後改善したいこと
+
+LP: https://tmpacc100.github.io/asayutori/
+用途別ページ: https://tmpacc100.github.io/use-cases/
+Media Kit: https://tmpacc100.github.io/media-kit/",https://tmpacc100.github.io/asayutori/,https://tmpacc100.github.io/assets/social/asayutori-square.png,https://tmpacc100.github.io/media-kit/,https://tmpacc100.github.io/outreach/,medium,ready_to_draft_after_note_login,Article should be useful before the app link appears; avoid link-only posts.
+note,Japanese article,kaumae,https://note.com/,買う前の後悔を減らすチェックリストアプリを作りました,"この記事では「衝動買い、節約、買い物チェック」の課題から、かうまえを作った理由を書きます。
+
+チェックリストと任意のAIリサーチガイドで、買い物の失敗を減らす台帳アプリ。
+
+1. どんな困りごとがあったか
+2. 既存の方法で足りなかったこと
+3. アプリでどう解くか
+4. 実際の使い方
+5. 今後改善したいこと
+
+LP: https://tmpacc100.github.io/kaumae/
+用途別ページ: https://tmpacc100.github.io/use-cases/
+Media Kit: https://tmpacc100.github.io/media-kit/",https://tmpacc100.github.io/kaumae/,https://tmpacc100.github.io/assets/social/kaumae-square.png,https://tmpacc100.github.io/media-kit/,https://tmpacc100.github.io/outreach/,medium,ready_to_draft_after_note_login,Article should be useful before the app link appears; avoid link-only posts.
+note,Japanese article,shiori,https://note.com/,青空文庫を縦書きとルビで読む読書アプリを作りました,"この記事では「青空文庫、読書習慣、日本文学」の課題から、栞を作った理由を書きます。
+
+青空文庫の名作を、美しい縦書きとルビで読めるiPhone/iPad/Mac読書アプリ。
+
+1. どんな困りごとがあったか
+2. 既存の方法で足りなかったこと
+3. アプリでどう解くか
+4. 実際の使い方
+5. 今後改善したいこと
+
+LP: https://tmpacc100.github.io/shiori/
+用途別ページ: https://tmpacc100.github.io/use-cases/
+Media Kit: https://tmpacc100.github.io/media-kit/",https://tmpacc100.github.io/shiori/,https://tmpacc100.github.io/assets/social/shiori-square.png,https://tmpacc100.github.io/media-kit/,https://tmpacc100.github.io/outreach/,medium,ready_to_draft_after_note_login,Article should be useful before the app link appears; avoid link-only posts.
+Zenn,developer article,clipnest,https://zenn.dev/,Macのクリップボード履歴アプリをローカルファーストで作るときに考えたこと,"ClipNestを作る中で考えた、クリップボード履歴、スニペット、ネットワーク権限なしの設計について技術記事としてまとめる。
+
+LP: https://tmpacc100.github.io/clipnest/
+Media Kit: https://tmpacc100.github.io/media-kit/",https://apps.apple.com/us/app/apple-store/id6777420616,https://tmpacc100.github.io/assets/social/clipnest-square.png,https://tmpacc100.github.io/media-kit/,https://tmpacc100.github.io/outreach/,medium,ready_to_draft_after_zenn_login,Technical article must teach implementation details and stand alone without requiring install.
+Qiita,developer article,clipnest,https://qiita.com/,macOSアプリでPasteboardとスニペット展開を扱うときの実装メモ,"Macユーティリティとして、Pasteboard履歴、検索、スニペット展開、ローカル保存の実装観点をまとめる。
+
+LP: https://tmpacc100.github.io/clipnest/
+Media Kit: https://tmpacc100.github.io/media-kit/",https://apps.apple.com/us/app/apple-store/id6777420616,https://tmpacc100.github.io/assets/social/clipnest-square.png,https://tmpacc100.github.io/media-kit/,https://tmpacc100.github.io/outreach/,medium,ready_to_draft_after_qiita_login,Technical article must teach implementation details and stand alone without requiring install.
+窓の杜,press email,clipnest,manual_editor_contact_required,Mac向けローカルファーストのクリップボード履歴アプリ ClipNest のご紹介,"編集部ご担当者さま
+
+突然のご連絡失礼いたします。個人開発者のtmpacc100です。
+
+ClipNest というアプリを開発しています。Macのクリップボード履歴とスニペット展開を1つに。ネットワーク権限なし、買い切り、ローカルファーストなmacOSユーティリティ。
+
+紹介ページ: https://tmpacc100.github.io/clipnest/
+主要リンク: https://apps.apple.com/us/app/apple-store/id6777420616
+Press Kit: https://tmpacc100.github.io/press/clipnest/
+Media Kit: https://tmpacc100.github.io/media-kit/
+
+掲載可否に関わらず、製品情報としてご確認いただけますと幸いです。
+よろしくお願いいたします。
+
+tmpacc100
+asd95179517@gmail.com",https://apps.apple.com/us/app/apple-store/id6777420616,https://tmpacc100.github.io/assets/social/clipnest-square.png,https://tmpacc100.github.io/media-kit/,https://tmpacc100.github.io/outreach/,high,prepared_not_sent_editor_contact_required,Find and verify current editorial contact before sending; do not bulk-send.
+ITmedia NEWS,press email,opusscore,manual_editor_contact_required,ピアノ練習中の譜めくりを減らすアプリ OpusScore のご紹介,"編集部ご担当者さま
+
+突然のご連絡失礼いたします。個人開発者のtmpacc100です。
+
+OpusScore というアプリを開発しています。ピアノ演奏を端末内で解析し、楽譜上の現在位置を追いかけるiPhone/iPadアプリ。
+
+紹介ページ: https://tmpacc100.github.io/opusscore/
+主要リンク: https://apps.apple.com/jp/app/apple-store/id6783845152
+Press Kit: https://tmpacc100.github.io/press/opusscore/
+Media Kit: https://tmpacc100.github.io/media-kit/
+
+掲載可否に関わらず、製品情報としてご確認いただけますと幸いです。
+よろしくお願いいたします。
+
+tmpacc100
+asd95179517@gmail.com",https://apps.apple.com/jp/app/apple-store/id6783845152,https://tmpacc100.github.io/assets/social/opusscore-square.png,https://tmpacc100.github.io/media-kit/,https://tmpacc100.github.io/outreach/,medium,prepared_not_sent_editor_contact_required,Find and verify current editorial contact before sending; do not bulk-send.
+ITmedia NEWS,press email,gonihon,manual_editor_contact_required,インドネシア語話者向けオフライン日本語学習アプリ GoNihon のご紹介,"編集部ご担当者さま
+
+突然のご連絡失礼いたします。個人開発者のtmpacc100です。
+
+GoNihon というアプリを開発しています。Indonesian speakers向けのオフライン日本語学習アプリ。語彙、模擬試験、面接練習に対応。
+
+紹介ページ: https://tmpacc100.github.io/gonihon/
+主要リンク: https://apps.apple.com/id/app/apple-store/id6778385065
+Press Kit: https://tmpacc100.github.io/press/gonihon/
+Media Kit: https://tmpacc100.github.io/media-kit/
+
+掲載可否に関わらず、製品情報としてご確認いただけますと幸いです。
+よろしくお願いいたします。
+
+tmpacc100
+asd95179517@gmail.com",https://apps.apple.com/id/app/apple-store/id6778385065,https://tmpacc100.github.io/assets/social/gonihon-square.png,https://tmpacc100.github.io/media-kit/,https://tmpacc100.github.io/outreach/,medium,prepared_not_sent_editor_contact_required,Find and verify current editorial contact before sending; do not bulk-send.
+Influencer / reviewer DM,DM,all,manual_recipient_selection_required,個人開発アプリのレビュー素材をお送りします,"突然失礼します。個人開発で、日常や制作の小さな困りごとを扱うアプリを作っています。
+
+もし動画や投稿のネタに合いそうでしたら、素材一式をご確認いただけないでしょうか。
+
+Media Kit: https://tmpacc100.github.io/media-kit/
+アプリ一覧: https://tmpacc100.github.io/
+リンク集: https://tmpacc100.github.io/links/
+
+PR表記が必要な場合はもちろん対応します。気になるアプリがあれば、追加情報をお送りします。",https://tmpacc100.github.io/media-kit/,https://tmpacc100.github.io/assets/social/opusscore-square.png,https://tmpacc100.github.io/media-kit/,https://tmpacc100.github.io/outreach/,medium,prepared_not_sent_recipient_approval_required,Confirm recipient list and message before sending DMs.
