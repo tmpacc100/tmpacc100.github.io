@@ -63,6 +63,104 @@
     <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>タイパ疲れを減らす時間デザインアプリ</title>
+    <link>https://tmpacc100.github.io/use-cases/taipa-time-design-app/</link>
+    <guid isPermaLink="false">use-case:taipa-time-design-app</guid>
+    <description>効率だけで1日を測らず、効率タイムとじっくりタイムを分けてふりかえる時間管理の受け皿です。</description>
+    <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>満足度でふりかえる日記・習慣化アプリ</title>
+    <link>https://tmpacc100.github.io/use-cases/daily-reflection-satisfaction-app/</link>
+    <guid isPermaLink="false">use-case:daily-reflection-satisfaction-app</guid>
+    <description>日記や習慣化を、達成数だけでなく満たされ度から見直すためのアプリ導線です。</description>
+    <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>朝ルーティンと遅刻防止の出発カウントダウン</title>
+    <link>https://tmpacc100.github.io/use-cases/morning-routine-countdown-app/</link>
+    <guid isPermaLink="false">use-case:morning-routine-countdown-app</guid>
+    <description>朝の支度、通勤、通学前に、出発までのゆとり分を見ながら落ち着いて動くための導線です。</description>
+    <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Live ActivityとDynamic Islandで朝の支度を見守る</title>
+    <link>https://tmpacc100.github.io/use-cases/live-activity-dynamic-island-countdown/</link>
+    <guid isPermaLink="false">use-case:live-activity-dynamic-island-countdown</guid>
+    <description>ロック画面やDynamic Islandで出発までのカウントダウンを確認したい人向けの朝支度アプリ導線です。</description>
+    <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>買い物チェックリストで比較と検討を整理</title>
+    <link>https://tmpacc100.github.io/use-cases/shopping-checklist-before-buying/</link>
+    <guid isPermaLink="false">use-case:shopping-checklist-before-buying</guid>
+    <description>欲しいもの、予算、比較条件を買う前に整理して、買い物の失敗を減らすためのアプリ導線です。</description>
+    <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>衝動買いと後悔を減らす買う前メモ</title>
+    <link>https://tmpacc100.github.io/use-cases/reduce-impulse-buying-regret/</link>
+    <guid isPermaLink="false">use-case:reduce-impulse-buying-regret</guid>
+    <description>衝動買い、節約、予算管理の前に、いったん欲しい理由を見える化するための導線です。</description>
+    <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ピアノの自動譜めくりと楽譜追跡</title>
+    <link>https://tmpacc100.github.io/use-cases/piano-auto-page-turner-score-following/</link>
+    <guid isPermaLink="false">use-case:piano-auto-page-turner-score-following</guid>
+    <description>ピアノ演奏を端末内で聴き取り、楽譜上の現在位置を追いかける自動譜めくりアプリの導線です。</description>
+    <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>MusicXML/MXLで練習できる楽譜アプリ</title>
+    <link>https://tmpacc100.github.io/use-cases/musicxml-mxl-piano-practice/</link>
+    <guid isPermaLink="false">use-case:musicxml-mxl-piano-practice</guid>
+    <description>MusicXMLやMXLの楽譜を使い、ピアノ練習で現在位置を追いやすくするアプリ導線です。</description>
+    <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Mac clipboard manager with local clipboard history</title>
+    <link>https://tmpacc100.github.io/use-cases/mac-clipboard-manager-local-history/</link>
+    <guid isPermaLink="false">use-case:mac-clipboard-manager-local-history</guid>
+    <description>A local-first Mac clipboard manager for clipboard history, search, pins, and fast reuse without accounts or network access.</description>
+    <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Snippet manager and text expander for Mac</title>
+    <link>https://tmpacc100.github.io/use-cases/mac-snippet-manager-text-expander/</link>
+    <guid isPermaLink="false">use-case:mac-snippet-manager-text-expander</guid>
+    <description>A Mac snippet manager for templates, signatures, and repeated text, paired with clipboard history in one local utility.</description>
+    <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>青空文庫を縦書きとルビで読む読書アプリ</title>
+    <link>https://tmpacc100.github.io/use-cases/aozora-bunko-vertical-reading-app/</link>
+    <guid isPermaLink="false">use-case:aozora-bunko-vertical-reading-app</guid>
+    <description>青空文庫の名作を、スマホやMacで縦書き・ルビつきで読みたい人向けの読書アプリ導線です。</description>
+    <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>読書習慣を続ける本棚・読書記録アプリ</title>
+    <link>https://tmpacc100.github.io/use-cases/reading-habit-bookshelf-tracker/</link>
+    <guid isPermaLink="false">use-case:reading-habit-bookshelf-tracker</guid>
+    <description>読書記録、本棚、短い読書時間から名作に戻るためのアプリ導線です。</description>
+    <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Belajar bahasa Jepang untuk kerja di Jepang</title>
+    <link>https://tmpacc100.github.io/use-cases/belajar-bahasa-jepang-kerja-jepang/</link>
+    <guid isPermaLink="false">use-case:belajar-bahasa-jepang-kerja-jepang</guid>
+    <description>Aplikasi belajar bahasa Jepang untuk penutur Indonesia yang ingin kerja di Jepang, dengan kosakata, latihan, dan wawancara.</description>
+    <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Belajar Jepang offline: kosakata, wawancara, dan mock test</title>
+    <link>https://tmpacc100.github.io/use-cases/belajar-jepang-offline-kosakata-wawancara/</link>
+    <guid isPermaLink="false">use-case:belajar-jepang-offline-kosakata-wawancara</guid>
+    <description>Belajar kosakata Jepang, latihan wawancara, dan mock test secara offline untuk pembelajar Indonesia.</description>
+    <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>えらんでタイパ</title>
     <link>https://tmpacc100.github.io/erande-taipa/</link>
     <guid isPermaLink="false">app:erande-taipa</guid>

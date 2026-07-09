@@ -36,7 +36,33 @@
         "Meta ads draft": "https://tmpacc100.github.io/go/erande-taipa/meta/",
         "Google ads draft": "https://tmpacc100.github.io/go/erande-taipa/google/",
         "Apple Ads Search draft": "https://tmpacc100.github.io/go/erande-taipa/apple-search/"
-      }
+      },
+      "useCasePages": [
+        {
+          "title": "タイパ疲れを減らす時間デザインアプリ",
+          "url": "https://tmpacc100.github.io/use-cases/taipa-time-design-app/",
+          "keywords": [
+            "タイパ",
+            "時間管理",
+            "時間記録",
+            "タイムマネジメント",
+            "効率",
+            "生活改善"
+          ]
+        },
+        {
+          "title": "満足度でふりかえる日記・習慣化アプリ",
+          "url": "https://tmpacc100.github.io/use-cases/daily-reflection-satisfaction-app/",
+          "keywords": [
+            "ふりかえり",
+            "日記",
+            "満足度",
+            "習慣化",
+            "自己管理",
+            "集中"
+          ]
+        }
+      ]
     },
     {
       "name": "あさゆとり",
@@ -70,7 +96,33 @@
         "Meta ads draft": "https://tmpacc100.github.io/go/asayutori/meta/",
         "Google ads draft": "https://tmpacc100.github.io/go/asayutori/google/",
         "Apple Ads Search draft": "https://tmpacc100.github.io/go/asayutori/apple-search/"
-      }
+      },
+      "useCasePages": [
+        {
+          "title": "朝ルーティンと遅刻防止の出発カウントダウン",
+          "url": "https://tmpacc100.github.io/use-cases/morning-routine-countdown-app/",
+          "keywords": [
+            "朝活",
+            "朝ルーティン",
+            "支度",
+            "出発",
+            "遅刻防止",
+            "通勤",
+            "通学"
+          ]
+        },
+        {
+          "title": "Live ActivityとDynamic Islandで朝の支度を見守る",
+          "url": "https://tmpacc100.github.io/use-cases/live-activity-dynamic-island-countdown/",
+          "keywords": [
+            "ライブアクティビティ",
+            "Dynamic Island",
+            "ロック画面",
+            "カウントダウン",
+            "タイマー"
+          ]
+        }
+      ]
     },
     {
       "name": "かうまえ",
@@ -104,7 +156,33 @@
         "Meta ads draft": "https://tmpacc100.github.io/go/kaumae/meta/",
         "Google ads draft": "https://tmpacc100.github.io/go/kaumae/google/",
         "Apple Ads Search draft": "https://tmpacc100.github.io/go/kaumae/apple-search/"
-      }
+      },
+      "useCasePages": [
+        {
+          "title": "買い物チェックリストで比較と検討を整理",
+          "url": "https://tmpacc100.github.io/use-cases/shopping-checklist-before-buying/",
+          "keywords": [
+            "買い物メモ",
+            "チェックリスト",
+            "買い物リスト",
+            "比較",
+            "検討",
+            "欲しいもの"
+          ]
+        },
+        {
+          "title": "衝動買いと後悔を減らす買う前メモ",
+          "url": "https://tmpacc100.github.io/use-cases/reduce-impulse-buying-regret/",
+          "keywords": [
+            "衝動買い",
+            "後悔",
+            "節約",
+            "家計",
+            "予算",
+            "失敗防止"
+          ]
+        }
+      ]
     },
     {
       "name": "OpusScore",
@@ -138,7 +216,33 @@
         "Meta ads draft": "https://tmpacc100.github.io/go/opusscore/meta/",
         "Google ads draft": "https://tmpacc100.github.io/go/opusscore/google/",
         "Apple Ads Search draft": "https://tmpacc100.github.io/go/opusscore/apple-search/"
-      }
+      },
+      "useCasePages": [
+        {
+          "title": "ピアノの自動譜めくりと楽譜追跡",
+          "url": "https://tmpacc100.github.io/use-cases/piano-auto-page-turner-score-following/",
+          "keywords": [
+            "譜めくり",
+            "楽譜",
+            "ピアノ",
+            "譜面",
+            "自動譜めくり",
+            "演奏"
+          ]
+        },
+        {
+          "title": "MusicXML/MXLで練習できる楽譜アプリ",
+          "url": "https://tmpacc100.github.io/use-cases/musicxml-mxl-piano-practice/",
+          "keywords": [
+            "MusicXML",
+            "MXL",
+            "クラシック",
+            "練習",
+            "楽譜アプリ",
+            "page turner"
+          ]
+        }
+      ]
     },
     {
       "name": "ClipNest",
@@ -172,7 +276,32 @@
         "Meta ads draft": "https://tmpacc100.github.io/go/clipnest/meta/",
         "Google ads draft": "https://tmpacc100.github.io/go/clipnest/google/",
         "Apple Ads Search draft": "https://tmpacc100.github.io/go/clipnest/apple-search/"
-      }
+      },
+      "useCasePages": [
+        {
+          "title": "Mac clipboard manager with local clipboard history",
+          "url": "https://tmpacc100.github.io/use-cases/mac-clipboard-manager-local-history/",
+          "keywords": [
+            "clipboard manager",
+            "clipboard history",
+            "pasteboard",
+            "copy paste",
+            "mac clipboard"
+          ]
+        },
+        {
+          "title": "Snippet manager and text expander for Mac",
+          "url": "https://tmpacc100.github.io/use-cases/mac-snippet-manager-text-expander/",
+          "keywords": [
+            "snippet manager",
+            "text expander",
+            "template",
+            "shortcut",
+            "signature",
+            "local first"
+          ]
+        }
+      ]
     },
     {
       "name": "栞",
@@ -206,7 +335,33 @@
         "Meta ads draft": "https://tmpacc100.github.io/go/shiori/meta/",
         "Google ads draft": "https://tmpacc100.github.io/go/shiori/google/",
         "Apple Ads Search draft": "https://tmpacc100.github.io/go/shiori/apple-search/"
-      }
+      },
+      "useCasePages": [
+        {
+          "title": "青空文庫を縦書きとルビで読む読書アプリ",
+          "url": "https://tmpacc100.github.io/use-cases/aozora-bunko-vertical-reading-app/",
+          "keywords": [
+            "青空文庫",
+            "読書アプリ",
+            "縦書き",
+            "ルビ",
+            "日本文学",
+            "名作"
+          ]
+        },
+        {
+          "title": "読書習慣を続ける本棚・読書記録アプリ",
+          "url": "https://tmpacc100.github.io/use-cases/reading-habit-bookshelf-tracker/",
+          "keywords": [
+            "読書記録",
+            "本棚",
+            "文庫",
+            "小説",
+            "読書習慣",
+            "電子書籍"
+          ]
+        }
+      ]
     },
     {
       "name": "GoNihon",
@@ -240,7 +395,30 @@
         "Meta ads draft": "https://tmpacc100.github.io/go/gonihon/meta/",
         "Google ads draft": "https://tmpacc100.github.io/go/gonihon/google/",
         "Apple Ads Search draft": "https://tmpacc100.github.io/go/gonihon/apple-search/"
-      }
+      },
+      "useCasePages": [
+        {
+          "title": "Belajar bahasa Jepang untuk kerja di Jepang",
+          "url": "https://tmpacc100.github.io/use-cases/belajar-bahasa-jepang-kerja-jepang/",
+          "keywords": [
+            "belajar bahasa jepang",
+            "bahasa jepang kerja",
+            "kerja di jepang",
+            "magang jepang"
+          ]
+        },
+        {
+          "title": "Belajar Jepang offline: kosakata, wawancara, dan mock test",
+          "url": "https://tmpacc100.github.io/use-cases/belajar-jepang-offline-kosakata-wawancara/",
+          "keywords": [
+            "kosakata jepang",
+            "wawancara bahasa jepang",
+            "jlpt indonesia",
+            "belajar jepang offline"
+          ]
+        }
+      ]
     }
-  ]
+  ],
+  "useCasesHub": "https://tmpacc100.github.io/use-cases/"
 }
