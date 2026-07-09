@@ -431,5 +431,10 @@
     "page": "https://tmpacc100.github.io/outreach/",
     "json": "https://tmpacc100.github.io/outreach.json",
     "csv": "https://tmpacc100.github.io/assets/downloads/tmpacc100-outreach-queue.csv"
+  },
+  "shareKit": {
+    "page": "https://tmpacc100.github.io/share/",
+    "json": "https://tmpacc100.github.io/share.json",
+    "csv": "https://tmpacc100.github.io/assets/downloads/tmpacc100-share-booster-links.csv"
   }
 }

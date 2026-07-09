@@ -384,4 +384,22 @@
     <changefreq>monthly</changefreq>
     <priority>0.2</priority>
   </url>
+  <url>
+    <loc>https://tmpacc100.github.io/share/</loc>
+    <lastmod>2026-07-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://tmpacc100.github.io/share.json</loc>
+    <lastmod>2026-07-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.25</priority>
+  </url>
+  <url>
+    <loc>https://tmpacc100.github.io/assets/downloads/tmpacc100-share-booster-links.csv</loc>
+    <lastmod>2026-07-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
 </urlset>
