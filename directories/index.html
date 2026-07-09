@@ -1,0 +1,819 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="tmpacc100 AppsをProduct Hunt、Uneed、AlternativeTo、BetaList、SaaSHubなどへ掲載するための提出キットです。">
+<title>tmpacc100 Apps Directory Submission Kit</title>
+<link rel="canonical" href="https://tmpacc100.github.io/directories/">
+<meta property="og:site_name" content="tmpacc100 Apps">
+<meta property="og:type" content="website">
+<meta property="og:locale" content="ja_JP">
+<meta property="og:title" content="tmpacc100 Apps Directory Submission Kit">
+<meta property="og:description" content="掲載先、費用、提出URL、説明文、素材URL、注意点をアプリ別にまとめています。">
+<meta property="og:url" content="https://tmpacc100.github.io/directories/">
+<meta property="og:image" content="https://tmpacc100.github.io/assets/social/clipnest-square.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="tmpacc100 Apps Directory Submission Kit">
+<meta name="twitter:description" content="Product Hunt、Uneed、AlternativeToなどへの提出準備キットです。">
+<meta name="twitter:image" content="https://tmpacc100.github.io/assets/social/clipnest-square.png">
+<link rel="alternate" type="application/rss+xml" title="tmpacc100 Apps" href="https://tmpacc100.github.io/feed.xml">
+<link rel="stylesheet" href="../style.css">
+<style>
+.directory-hero { min-height: auto; grid-template-columns: minmax(0, .96fr) minmax(260px, .54fr); }
+.directory-preview { display: block; width: min(100%, 420px); border: 1px solid var(--line); border-radius: 8px; background: #fff; box-shadow: 0 16px 42px rgba(28, 32, 42, 0.12); }
+.directory-stats { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 14px; margin-top: 24px; }
+.directory-stat { border-top: 1px solid var(--line); padding-top: 12px; }
+.directory-stat strong { display: block; font-size: 1.6rem; line-height: 1.1; }
+.directory-card { display: grid; grid-template-columns: minmax(0, .86fr) minmax(300px, .8fr); gap: 18px; border: 1px solid var(--line); border-radius: 8px; background: #fff; padding: 18px; margin-bottom: 18px; }
+.directory-card > * { min-width: 0; }
+.directory-card h2 { margin-bottom: 8px; overflow-wrap: anywhere; }
+.directory-card p { overflow-wrap: anywhere; }
+.directory-card.high { border-top: 5px solid var(--blue); }
+.directory-card.medium { border-top: 5px solid var(--green); }
+.directory-card.low { border-top: 5px solid var(--brass); }
+.directory-card dl { display: grid; grid-template-columns: 96px minmax(0, 1fr); gap: 8px 12px; margin: 14px 0 0; }
+.directory-card dt { color: var(--muted); font-weight: 700; }
+.directory-card dd { margin: 0; overflow-wrap: anywhere; }
+.copy-box { white-space: pre-wrap; overflow-wrap: anywhere; border: 1px solid var(--line); border-radius: 8px; background: var(--paper); padding: 14px; color: var(--muted); font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: .88rem; line-height: 1.55; }
+.source-list { display: grid; gap: 10px; padding-left: 20px; }
+.source-list li { overflow-wrap: anywhere; }
+@media (max-width: 860px) { .directory-hero, .directory-card, .directory-stats { grid-template-columns: 1fr; } }
+</style>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "name": "tmpacc100 Apps Directory Submission Kit",
+  "description": "Directory and launch-platform submission queue for tmpacc100 Apps.",
+  "url": "https://tmpacc100.github.io/directories/",
+  "datePublished": "2026-07-09",
+  "dateModified": "2026-07-09",
+  "publisher": {
+    "@type": "Organization",
+    "name": "tmpacc100 Apps",
+    "url": "https://tmpacc100.github.io/"
+  },
+  "mainEntity": {
+    "@type": "ItemList",
+    "numberOfItems": 28,
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Product Hunt - ClipNest",
+        "url": "https://tmpacc100.github.io/clipnest/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Product Hunt - OpusScore",
+        "url": "https://tmpacc100.github.io/opusscore/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Product Hunt - GoNihon",
+        "url": "https://tmpacc100.github.io/gonihon/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 4,
+        "name": "Uneed - ClipNest",
+        "url": "https://tmpacc100.github.io/clipnest/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 5,
+        "name": "Uneed - OpusScore",
+        "url": "https://tmpacc100.github.io/opusscore/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 6,
+        "name": "Uneed - GoNihon",
+        "url": "https://tmpacc100.github.io/gonihon/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 7,
+        "name": "Uneed - 栞",
+        "url": "https://tmpacc100.github.io/shiori/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 8,
+        "name": "SaaSHub - ClipNest",
+        "url": "https://tmpacc100.github.io/clipnest/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 9,
+        "name": "SaaSHub - OpusScore",
+        "url": "https://tmpacc100.github.io/opusscore/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 10,
+        "name": "SaaSHub - GoNihon",
+        "url": "https://tmpacc100.github.io/gonihon/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 11,
+        "name": "BetaList - ClipNest",
+        "url": "https://tmpacc100.github.io/clipnest/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 12,
+        "name": "BetaList - GoNihon",
+        "url": "https://tmpacc100.github.io/gonihon/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 13,
+        "name": "BetaList - OpusScore",
+        "url": "https://tmpacc100.github.io/opusscore/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 14,
+        "name": "Microlaunch - ClipNest",
+        "url": "https://tmpacc100.github.io/clipnest/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 15,
+        "name": "Microlaunch - OpusScore",
+        "url": "https://tmpacc100.github.io/opusscore/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 16,
+        "name": "Microlaunch - GoNihon",
+        "url": "https://tmpacc100.github.io/gonihon/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 17,
+        "name": "AlternativeTo - ClipNest",
+        "url": "https://tmpacc100.github.io/clipnest/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 18,
+        "name": "AlternativeTo - OpusScore",
+        "url": "https://tmpacc100.github.io/opusscore/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 19,
+        "name": "AlternativeTo - GoNihon",
+        "url": "https://tmpacc100.github.io/gonihon/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 20,
+        "name": "AlternativeTo - 栞",
+        "url": "https://tmpacc100.github.io/shiori/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 21,
+        "name": "AlternativeTo - えらんでタイパ",
+        "url": "https://tmpacc100.github.io/erande-taipa/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 22,
+        "name": "AlternativeTo - あさゆとり",
+        "url": "https://tmpacc100.github.io/asayutori/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 23,
+        "name": "AlternativeTo - かうまえ",
+        "url": "https://tmpacc100.github.io/kaumae/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 24,
+        "name": "Startup Stash - ClipNest",
+        "url": "https://tmpacc100.github.io/clipnest/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 25,
+        "name": "Startup Stash - GoNihon",
+        "url": "https://tmpacc100.github.io/gonihon/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 26,
+        "name": "Indie Hackers Products - ClipNest",
+        "url": "https://tmpacc100.github.io/clipnest/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 27,
+        "name": "Crunchbase - ClipNest",
+        "url": "https://tmpacc100.github.io/clipnest/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 28,
+        "name": "SubmitJuice - ClipNest",
+        "url": "https://tmpacc100.github.io/clipnest/"
+      }
+    ]
+  }
+}
+</script>
+</head>
+<body>
+<header class="site-header">
+  <a class="brand" href="../">tmpacc100 Apps</a>
+  <nav aria-label="Directories">
+    <a href="../">Apps</a>
+    <a href="../install/">Install</a>
+    <a href="../directories/">Directories</a>
+    <a href="../outreach/">Outreach</a>
+    <a href="../share/">Share</a>
+    <a href="../media-kit/">Media Kit</a>
+  </nav>
+</header>
+<main>
+  <section class="hero directory-hero">
+    <div>
+      <p class="muted">Directory Submission Kit</p>
+      <h1>掲載先ディレクトリへの提出キュー</h1>
+      <p>Product Hunt、Uneed、AlternativeTo、BetaList、SaaSHubなどの掲載先に対して、アプリごとの提出URL、説明文、素材、費用、注意点をまとめています。外部アカウントでの実投稿・支払いはまだ行っていません。</p>
+      <div class="hero-actions">
+        <a class="button primary" href="#queue">提出キューを見る</a>
+        <a class="button" href="../assets/downloads/tmpacc100-directory-submissions.csv">CSV</a>
+        <a class="button" href="../directories.json">JSON</a>
+      </div>
+      <div class="directory-stats">
+        <p class="directory-stat"><strong>28</strong>Submissions</p>
+        <p class="directory-stat"><strong>27</strong>Free or mixed</p>
+        <p class="directory-stat"><strong>5</strong>High priority</p>
+      </div>
+    </div>
+    <div>
+      <img class="directory-preview" src="../assets/social/clipnest-square.png" alt="Directory preview">
+    </div>
+  </section>
+  <section class="section support">
+    <h2>Verified Sources</h2>
+    <ul class="source-list">
+      <li><a href="https://www.producthunt.com/launch">Product Hunt</a>: Official launch guide says makers submit by logging in and choosing Submit &gt; New Product.</li>
+<li><a href="https://www.uneed.best/submit-a-tool">Uneed</a>: Submit page states no account is needed to start; signup is requested after preview.</li>
+<li><a href="https://alternativeto.net/faq/#add-a-new-application">AlternativeTo</a>: FAQ says users can add software via Suggest new application; new users must wait one week.</li>
+<li><a href="https://betalist.com/">BetaList</a>: Homepage exposes Submit Startup and the submit URL redirects to sign-in.</li>
+<li><a href="https://www.saashub.com/submit/list">SaaSHub</a>: SaaSHub lists a free submission workflow and a directory list for promoting products.</li>
+<li><a href="https://startupstash.com/add-listing/">Startup Stash</a>: Add Listing page exposes List A Product and Startup Stash contact information.</li>
+<li><a href="https://microlaunch.net/premium">Microlaunch</a>: Premium page describes product submission, 30-day exposure, feedback, and paid Pro Launch.</li>
+<li><a href="https://www.indiehackers.com/products">Indie Hackers Products</a>: Products page is the Indie Hackers product database entry point.</li>
+<li><a href="https://support.crunchbase.com/hc/en-us/articles/115010642588-Requirements-to-Create-a-Crunchbase-Profile-Page">Crunchbase</a>: Crunchbase says registered and socially authenticated users can add profile pages.</li>
+<li><a href="https://microlaunch.net/p/submit">SubmitJuice</a>: Microlaunch listing describes a paid service for manual submission to many directories.</li>
+    </ul>
+  </section>
+  <section id="queue" class="section">
+    <h2>Submission Queue</h2>
+    <article class="directory-card high">
+  <div>
+    <p class="muted">free_account_required / high / ready_after_product_hunt_login</p>
+    <h2>Product Hunt - ClipNest</h2>
+    <p>Launch as a focused product page with screenshots, a short demo, and a feedback-oriented maker comment.</p>
+    <dl>
+      <dt>Title</dt><dd>ClipNest</dd>
+      <dt>Tagline</dt><dd>Clipboard history and snippets, local on your Mac.</dd>
+      <dt>Tags</dt><dd>Mac productivity, clipboard manager, snippets, privacy, local-first</dd>
+    </dl>
+    <div class="hero-actions">
+      <a class="button primary" href="https://www.producthunt.com/launch">Submit</a>
+      <a class="button" href="https://tmpacc100.github.io/clipnest/">Product URL</a>
+      <a class="button" href="https://apps.apple.com/us/app/apple-store/id6777420616">Install</a>
+      <a class="button" href="https://tmpacc100.github.io/assets/social/clipnest-square.png">Asset</a>
+    </div>
+  </div>
+  <pre class="copy-box">ClipNest keeps clipboard history and reusable snippets local on your Mac. It is designed for fast search, pinning, and text expansion without accounts or network access.</pre>
+</article>
+<article class="directory-card medium">
+  <div>
+    <p class="muted">free_account_required / medium / ready_after_product_hunt_login</p>
+    <h2>Product Hunt - OpusScore</h2>
+    <p>Launch as a focused product page with screenshots, a short demo, and a feedback-oriented maker comment.</p>
+    <dl>
+      <dt>Title</dt><dd>OpusScore</dd>
+      <dt>Tagline</dt><dd>演奏を聴いて、自動で譜めくり。</dd>
+      <dt>Tags</dt><dd>music practice, piano, score following, MusicXML, iPad</dd>
+    </dl>
+    <div class="hero-actions">
+      <a class="button primary" href="https://www.producthunt.com/launch">Submit</a>
+      <a class="button" href="https://tmpacc100.github.io/opusscore/">Product URL</a>
+      <a class="button" href="https://apps.apple.com/jp/app/apple-store/id6783845152">Install</a>
+      <a class="button" href="https://tmpacc100.github.io/assets/social/opusscore-square.png">Asset</a>
+    </div>
+  </div>
+  <pre class="copy-box">OpusScoreは、ピアノ演奏をマイクで聴き取り、楽譜上の現在位置をリアルタイムに追いかけるアプリです。収録サンプル曲とMusicXML取り込みに対応し、処理は端末内で完結します。</pre>
+</article>
+<article class="directory-card medium">
+  <div>
+    <p class="muted">free_account_required / medium / ready_after_product_hunt_login</p>
+    <h2>Product Hunt - GoNihon</h2>
+    <p>Launch as a focused product page with screenshots, a short demo, and a feedback-oriented maker comment.</p>
+    <dl>
+      <dt>Title</dt><dd>GoNihon</dd>
+      <dt>Tagline</dt><dd>Belajar bahasa Jepang untuk kerja di Jepang.</dd>
+      <dt>Tags</dt><dd>Japanese learning, Indonesian speakers, offline education, interview practice</dd>
+    </dl>
+    <div class="hero-actions">
+      <a class="button primary" href="https://www.producthunt.com/launch">Submit</a>
+      <a class="button" href="https://tmpacc100.github.io/gonihon/">Product URL</a>
+      <a class="button" href="https://apps.apple.com/id/app/apple-store/id6778385065">Install</a>
+      <a class="button" href="https://tmpacc100.github.io/assets/social/gonihon-square.png">Asset</a>
+    </div>
+  </div>
+  <pre class="copy-box">GoNihon helps Indonesian speakers study Japanese for work in Japan with offline vocabulary, listening, mock tests, and interview practice. Progress, XP, and streaks work without an account.</pre>
+</article>
+<article class="directory-card high">
+  <div>
+    <p class="muted">free_queue_paid_date_optional / high / ready_to_preview_without_account_then_signup_required</p>
+    <h2>Uneed - ClipNest</h2>
+    <p>Launch as a focused product page with screenshots, a short demo, and a feedback-oriented maker comment.</p>
+    <dl>
+      <dt>Title</dt><dd>ClipNest</dd>
+      <dt>Tagline</dt><dd>Clipboard history and snippets, local on your Mac.</dd>
+      <dt>Tags</dt><dd>Mac productivity, clipboard manager, snippets, privacy, local-first</dd>
+    </dl>
+    <div class="hero-actions">
+      <a class="button primary" href="https://www.uneed.best/submit-a-tool">Submit</a>
+      <a class="button" href="https://tmpacc100.github.io/clipnest/">Product URL</a>
+      <a class="button" href="https://apps.apple.com/us/app/apple-store/id6777420616">Install</a>
+      <a class="button" href="https://tmpacc100.github.io/assets/social/clipnest-square.png">Asset</a>
+    </div>
+  </div>
+  <pre class="copy-box">ClipNest keeps clipboard history and reusable snippets local on your Mac. It is designed for fast search, pinning, and text expansion without accounts or network access.</pre>
+</article>
+<article class="directory-card medium">
+  <div>
+    <p class="muted">free_queue_paid_date_optional / medium / ready_to_preview_without_account_then_signup_required</p>
+    <h2>Uneed - OpusScore</h2>
+    <p>Launch as a focused product page with screenshots, a short demo, and a feedback-oriented maker comment.</p>
+    <dl>
+      <dt>Title</dt><dd>OpusScore</dd>
+      <dt>Tagline</dt><dd>演奏を聴いて、自動で譜めくり。</dd>
+      <dt>Tags</dt><dd>music practice, piano, score following, MusicXML, iPad</dd>
+    </dl>
+    <div class="hero-actions">
+      <a class="button primary" href="https://www.uneed.best/submit-a-tool">Submit</a>
+      <a class="button" href="https://tmpacc100.github.io/opusscore/">Product URL</a>
+      <a class="button" href="https://apps.apple.com/jp/app/apple-store/id6783845152">Install</a>
+      <a class="button" href="https://tmpacc100.github.io/assets/social/opusscore-square.png">Asset</a>
+    </div>
+  </div>
+  <pre class="copy-box">OpusScoreは、ピアノ演奏をマイクで聴き取り、楽譜上の現在位置をリアルタイムに追いかけるアプリです。収録サンプル曲とMusicXML取り込みに対応し、処理は端末内で完結します。</pre>
+</article>
+<article class="directory-card medium">
+  <div>
+    <p class="muted">free_queue_paid_date_optional / medium / ready_to_preview_without_account_then_signup_required</p>
+    <h2>Uneed - GoNihon</h2>
+    <p>Launch as a focused product page with screenshots, a short demo, and a feedback-oriented maker comment.</p>
+    <dl>
+      <dt>Title</dt><dd>GoNihon</dd>
+      <dt>Tagline</dt><dd>Belajar bahasa Jepang untuk kerja di Jepang.</dd>
+      <dt>Tags</dt><dd>Japanese learning, Indonesian speakers, offline education, interview practice</dd>
+    </dl>
+    <div class="hero-actions">
+      <a class="button primary" href="https://www.uneed.best/submit-a-tool">Submit</a>
+      <a class="button" href="https://tmpacc100.github.io/gonihon/">Product URL</a>
+      <a class="button" href="https://apps.apple.com/id/app/apple-store/id6778385065">Install</a>
+      <a class="button" href="https://tmpacc100.github.io/assets/social/gonihon-square.png">Asset</a>
+    </div>
+  </div>
+  <pre class="copy-box">GoNihon helps Indonesian speakers study Japanese for work in Japan with offline vocabulary, listening, mock tests, and interview practice. Progress, XP, and streaks work without an account.</pre>
+</article>
+<article class="directory-card medium">
+  <div>
+    <p class="muted">free_queue_paid_date_optional / medium / ready_to_preview_without_account_then_signup_required</p>
+    <h2>Uneed - 栞</h2>
+    <p>Launch as a focused product page with screenshots, a short demo, and a feedback-oriented maker comment.</p>
+    <dl>
+      <dt>Title</dt><dd>栞</dd>
+      <dt>Tagline</dt><dd>1日10分、名作を。</dd>
+      <dt>Tags</dt><dd>reading, Aozora Bunko, vertical writing, Japanese literature, iPad</dd>
+    </dl>
+    <div class="hero-actions">
+      <a class="button primary" href="https://www.uneed.best/submit-a-tool">Submit</a>
+      <a class="button" href="https://tmpacc100.github.io/shiori/">Product URL</a>
+      <a class="button" href="https://tmpacc100.github.io/shiori/">Install</a>
+      <a class="button" href="https://tmpacc100.github.io/assets/social/shiori-square.png">Asset</a>
+    </div>
+  </div>
+  <pre class="copy-box">「栞」は、青空文庫の名作を縦書き、ルビ、読書統計つきで読める読書アプリです。短い読書時間でも続けやすい体験を目指しています。</pre>
+</article>
+<article class="directory-card high">
+  <div>
+    <p class="muted">free_account_required / high / ready_after_saashub_product_approval</p>
+    <h2>SaaSHub - ClipNest</h2>
+    <p>Launch as a focused product page with screenshots, a short demo, and a feedback-oriented maker comment.</p>
+    <dl>
+      <dt>Title</dt><dd>ClipNest</dd>
+      <dt>Tagline</dt><dd>Clipboard history and snippets, local on your Mac.</dd>
+      <dt>Tags</dt><dd>Mac productivity, clipboard manager, snippets, privacy, local-first</dd>
+    </dl>
+    <div class="hero-actions">
+      <a class="button primary" href="https://www.saashub.com/submit">Submit</a>
+      <a class="button" href="https://tmpacc100.github.io/clipnest/">Product URL</a>
+      <a class="button" href="https://apps.apple.com/us/app/apple-store/id6777420616">Install</a>
+      <a class="button" href="https://tmpacc100.github.io/assets/social/clipnest-square.png">Asset</a>
+    </div>
+  </div>
+  <pre class="copy-box">ClipNest keeps clipboard history and reusable snippets local on your Mac. It is designed for fast search, pinning, and text expansion without accounts or network access.</pre>
+</article>
+<article class="directory-card medium">
+  <div>
+    <p class="muted">free_account_required / medium / ready_after_saashub_product_approval</p>
+    <h2>SaaSHub - OpusScore</h2>
+    <p>Launch as a focused product page with screenshots, a short demo, and a feedback-oriented maker comment.</p>
+    <dl>
+      <dt>Title</dt><dd>OpusScore</dd>
+      <dt>Tagline</dt><dd>演奏を聴いて、自動で譜めくり。</dd>
+      <dt>Tags</dt><dd>music practice, piano, score following, MusicXML, iPad</dd>
+    </dl>
+    <div class="hero-actions">
+      <a class="button primary" href="https://www.saashub.com/submit">Submit</a>
+      <a class="button" href="https://tmpacc100.github.io/opusscore/">Product URL</a>
+      <a class="button" href="https://apps.apple.com/jp/app/apple-store/id6783845152">Install</a>
+      <a class="button" href="https://tmpacc100.github.io/assets/social/opusscore-square.png">Asset</a>
+    </div>
+  </div>
+  <pre class="copy-box">OpusScoreは、ピアノ演奏をマイクで聴き取り、楽譜上の現在位置をリアルタイムに追いかけるアプリです。収録サンプル曲とMusicXML取り込みに対応し、処理は端末内で完結します。</pre>
+</article>
+<article class="directory-card medium">
+  <div>
+    <p class="muted">free_account_required / medium / ready_after_saashub_product_approval</p>
+    <h2>SaaSHub - GoNihon</h2>
+    <p>Launch as a focused product page with screenshots, a short demo, and a feedback-oriented maker comment.</p>
+    <dl>
+      <dt>Title</dt><dd>GoNihon</dd>
+      <dt>Tagline</dt><dd>Belajar bahasa Jepang untuk kerja di Jepang.</dd>
+      <dt>Tags</dt><dd>Japanese learning, Indonesian speakers, offline education, interview practice</dd>
+    </dl>
+    <div class="hero-actions">
+      <a class="button primary" href="https://www.saashub.com/submit">Submit</a>
+      <a class="button" href="https://tmpacc100.github.io/gonihon/">Product URL</a>
+      <a class="button" href="https://apps.apple.com/id/app/apple-store/id6778385065">Install</a>
+      <a class="button" href="https://tmpacc100.github.io/assets/social/gonihon-square.png">Asset</a>
+    </div>
+  </div>
+  <pre class="copy-box">GoNihon helps Indonesian speakers study Japanese for work in Japan with offline vocabulary, listening, mock tests, and interview practice. Progress, XP, and streaks work without an account.</pre>
+</article>
+<article class="directory-card high">
+  <div>
+    <p class="muted">free_or_paid_fast_track_possible / high / ready_after_betalist_login</p>
+    <h2>BetaList - ClipNest</h2>
+    <p>Launch as a focused product page with screenshots, a short demo, and a feedback-oriented maker comment.</p>
+    <dl>
+      <dt>Title</dt><dd>ClipNest</dd>
+      <dt>Tagline</dt><dd>Clipboard history and snippets, local on your Mac.</dd>
+      <dt>Tags</dt><dd>Mac productivity, clipboard manager, snippets, privacy, local-first</dd>
+    </dl>
+    <div class="hero-actions">
+      <a class="button primary" href="https://betalist.com/submit">Submit</a>
+      <a class="button" href="https://tmpacc100.github.io/clipnest/">Product URL</a>
+      <a class="button" href="https://apps.apple.com/us/app/apple-store/id6777420616">Install</a>
+      <a class="button" href="https://tmpacc100.github.io/assets/social/clipnest-square.png">Asset</a>
+    </div>
+  </div>
+  <pre class="copy-box">ClipNest keeps clipboard history and reusable snippets local on your Mac. It is designed for fast search, pinning, and text expansion without accounts or network access.</pre>
+</article>
+<article class="directory-card medium">
+  <div>
+    <p class="muted">free_or_paid_fast_track_possible / medium / ready_after_betalist_login</p>
+    <h2>BetaList - GoNihon</h2>
+    <p>Launch as a focused product page with screenshots, a short demo, and a feedback-oriented maker comment.</p>
+    <dl>
+      <dt>Title</dt><dd>GoNihon</dd>
+      <dt>Tagline</dt><dd>Belajar bahasa Jepang untuk kerja di Jepang.</dd>
+      <dt>Tags</dt><dd>Japanese learning, Indonesian speakers, offline education, interview practice</dd>
+    </dl>
+    <div class="hero-actions">
+      <a class="button primary" href="https://betalist.com/submit">Submit</a>
+      <a class="button" href="https://tmpacc100.github.io/gonihon/">Product URL</a>
+      <a class="button" href="https://apps.apple.com/id/app/apple-store/id6778385065">Install</a>
+      <a class="button" href="https://tmpacc100.github.io/assets/social/gonihon-square.png">Asset</a>
+    </div>
+  </div>
+  <pre class="copy-box">GoNihon helps Indonesian speakers study Japanese for work in Japan with offline vocabulary, listening, mock tests, and interview practice. Progress, XP, and streaks work without an account.</pre>
+</article>
+<article class="directory-card medium">
+  <div>
+    <p class="muted">free_or_paid_fast_track_possible / medium / ready_after_betalist_login</p>
+    <h2>BetaList - OpusScore</h2>
+    <p>Launch as a focused product page with screenshots, a short demo, and a feedback-oriented maker comment.</p>
+    <dl>
+      <dt>Title</dt><dd>OpusScore</dd>
+      <dt>Tagline</dt><dd>演奏を聴いて、自動で譜めくり。</dd>
+      <dt>Tags</dt><dd>music practice, piano, score following, MusicXML, iPad</dd>
+    </dl>
+    <div class="hero-actions">
+      <a class="button primary" href="https://betalist.com/submit">Submit</a>
+      <a class="button" href="https://tmpacc100.github.io/opusscore/">Product URL</a>
+      <a class="button" href="https://apps.apple.com/jp/app/apple-store/id6783845152">Install</a>
+      <a class="button" href="https://tmpacc100.github.io/assets/social/opusscore-square.png">Asset</a>
+    </div>
+  </div>
+  <pre class="copy-box">OpusScoreは、ピアノ演奏をマイクで聴き取り、楽譜上の現在位置をリアルタイムに追いかけるアプリです。収録サンプル曲とMusicXML取り込みに対応し、処理は端末内で完結します。</pre>
+</article>
+<article class="directory-card high">
+  <div>
+    <p class="muted">free_launch_paid_pro_optional / high / ready_after_microlaunch_signup_or_paid_launch_decision</p>
+    <h2>Microlaunch - ClipNest</h2>
+    <p>Launch as a focused product page with screenshots, a short demo, and a feedback-oriented maker comment.</p>
+    <dl>
+      <dt>Title</dt><dd>ClipNest</dd>
+      <dt>Tagline</dt><dd>Clipboard history and snippets, local on your Mac.</dd>
+      <dt>Tags</dt><dd>Mac productivity, clipboard manager, snippets, privacy, local-first</dd>
+    </dl>
+    <div class="hero-actions">
+      <a class="button primary" href="https://microlaunch.net/">Submit</a>
+      <a class="button" href="https://tmpacc100.github.io/clipnest/">Product URL</a>
+      <a class="button" href="https://apps.apple.com/us/app/apple-store/id6777420616">Install</a>
+      <a class="button" href="https://tmpacc100.github.io/assets/social/clipnest-square.png">Asset</a>
+    </div>
+  </div>
+  <pre class="copy-box">ClipNest keeps clipboard history and reusable snippets local on your Mac. It is designed for fast search, pinning, and text expansion without accounts or network access.</pre>
+</article>
+<article class="directory-card medium">
+  <div>
+    <p class="muted">free_launch_paid_pro_optional / medium / ready_after_microlaunch_signup_or_paid_launch_decision</p>
+    <h2>Microlaunch - OpusScore</h2>
+    <p>Launch as a focused product page with screenshots, a short demo, and a feedback-oriented maker comment.</p>
+    <dl>
+      <dt>Title</dt><dd>OpusScore</dd>
+      <dt>Tagline</dt><dd>演奏を聴いて、自動で譜めくり。</dd>
+      <dt>Tags</dt><dd>music practice, piano, score following, MusicXML, iPad</dd>
+    </dl>
+    <div class="hero-actions">
+      <a class="button primary" href="https://microlaunch.net/">Submit</a>
+      <a class="button" href="https://tmpacc100.github.io/opusscore/">Product URL</a>
+      <a class="button" href="https://apps.apple.com/jp/app/apple-store/id6783845152">Install</a>
+      <a class="button" href="https://tmpacc100.github.io/assets/social/opusscore-square.png">Asset</a>
+    </div>
+  </div>
+  <pre class="copy-box">OpusScoreは、ピアノ演奏をマイクで聴き取り、楽譜上の現在位置をリアルタイムに追いかけるアプリです。収録サンプル曲とMusicXML取り込みに対応し、処理は端末内で完結します。</pre>
+</article>
+<article class="directory-card medium">
+  <div>
+    <p class="muted">free_launch_paid_pro_optional / medium / ready_after_microlaunch_signup_or_paid_launch_decision</p>
+    <h2>Microlaunch - GoNihon</h2>
+    <p>Launch as a focused product page with screenshots, a short demo, and a feedback-oriented maker comment.</p>
+    <dl>
+      <dt>Title</dt><dd>GoNihon</dd>
+      <dt>Tagline</dt><dd>Belajar bahasa Jepang untuk kerja di Jepang.</dd>
+      <dt>Tags</dt><dd>Japanese learning, Indonesian speakers, offline education, interview practice</dd>
+    </dl>
+    <div class="hero-actions">
+      <a class="button primary" href="https://microlaunch.net/">Submit</a>
+      <a class="button" href="https://tmpacc100.github.io/gonihon/">Product URL</a>
+      <a class="button" href="https://apps.apple.com/id/app/apple-store/id6778385065">Install</a>
+      <a class="button" href="https://tmpacc100.github.io/assets/social/gonihon-square.png">Asset</a>
+    </div>
+  </div>
+  <pre class="copy-box">GoNihon helps Indonesian speakers study Japanese for work in Japan with offline vocabulary, listening, mock tests, and interview practice. Progress, XP, and streaks work without an account.</pre>
+</article>
+<article class="directory-card medium">
+  <div>
+    <p class="muted">free_account_required / medium / ready_after_alternativeto_account_age_allows_submission</p>
+    <h2>AlternativeTo - ClipNest</h2>
+    <p>Submit as a software/application entry so people searching for alternatives can discover the app.</p>
+    <dl>
+      <dt>Title</dt><dd>ClipNest</dd>
+      <dt>Tagline</dt><dd>Clipboard history and snippets, local on your Mac.</dd>
+      <dt>Tags</dt><dd>Mac productivity, clipboard manager, snippets, privacy, local-first</dd>
+    </dl>
+    <div class="hero-actions">
+      <a class="button primary" href="https://alternativeto.net/">Submit</a>
+      <a class="button" href="https://tmpacc100.github.io/clipnest/">Product URL</a>
+      <a class="button" href="https://apps.apple.com/us/app/apple-store/id6777420616">Install</a>
+      <a class="button" href="https://tmpacc100.github.io/assets/social/clipnest-square.png">Asset</a>
+    </div>
+  </div>
+  <pre class="copy-box">ClipNest keeps clipboard history and reusable snippets local on your Mac. It is designed for fast search, pinning, and text expansion without accounts or network access.</pre>
+</article>
+<article class="directory-card medium">
+  <div>
+    <p class="muted">free_account_required / medium / ready_after_alternativeto_account_age_allows_submission</p>
+    <h2>AlternativeTo - OpusScore</h2>
+    <p>Submit as a software/application entry so people searching for alternatives can discover the app.</p>
+    <dl>
+      <dt>Title</dt><dd>OpusScore</dd>
+      <dt>Tagline</dt><dd>演奏を聴いて、自動で譜めくり。</dd>
+      <dt>Tags</dt><dd>music practice, piano, score following, MusicXML, iPad</dd>
+    </dl>
+    <div class="hero-actions">
+      <a class="button primary" href="https://alternativeto.net/">Submit</a>
+      <a class="button" href="https://tmpacc100.github.io/opusscore/">Product URL</a>
+      <a class="button" href="https://apps.apple.com/jp/app/apple-store/id6783845152">Install</a>
+      <a class="button" href="https://tmpacc100.github.io/assets/social/opusscore-square.png">Asset</a>
+    </div>
+  </div>
+  <pre class="copy-box">OpusScoreは、ピアノ演奏をマイクで聴き取り、楽譜上の現在位置をリアルタイムに追いかけるアプリです。収録サンプル曲とMusicXML取り込みに対応し、処理は端末内で完結します。</pre>
+</article>
+<article class="directory-card medium">
+  <div>
+    <p class="muted">free_account_required / medium / ready_after_alternativeto_account_age_allows_submission</p>
+    <h2>AlternativeTo - GoNihon</h2>
+    <p>Submit as a software/application entry so people searching for alternatives can discover the app.</p>
+    <dl>
+      <dt>Title</dt><dd>GoNihon</dd>
+      <dt>Tagline</dt><dd>Belajar bahasa Jepang untuk kerja di Jepang.</dd>
+      <dt>Tags</dt><dd>Japanese learning, Indonesian speakers, offline education, interview practice</dd>
+    </dl>
+    <div class="hero-actions">
+      <a class="button primary" href="https://alternativeto.net/">Submit</a>
+      <a class="button" href="https://tmpacc100.github.io/gonihon/">Product URL</a>
+      <a class="button" href="https://apps.apple.com/id/app/apple-store/id6778385065">Install</a>
+      <a class="button" href="https://tmpacc100.github.io/assets/social/gonihon-square.png">Asset</a>
+    </div>
+  </div>
+  <pre class="copy-box">GoNihon helps Indonesian speakers study Japanese for work in Japan with offline vocabulary, listening, mock tests, and interview practice. Progress, XP, and streaks work without an account.</pre>
+</article>
+<article class="directory-card medium">
+  <div>
+    <p class="muted">free_account_required / medium / ready_after_alternativeto_account_age_allows_submission</p>
+    <h2>AlternativeTo - 栞</h2>
+    <p>Submit as a software/application entry so people searching for alternatives can discover the app.</p>
+    <dl>
+      <dt>Title</dt><dd>栞</dd>
+      <dt>Tagline</dt><dd>1日10分、名作を。</dd>
+      <dt>Tags</dt><dd>reading, Aozora Bunko, vertical writing, Japanese literature, iPad</dd>
+    </dl>
+    <div class="hero-actions">
+      <a class="button primary" href="https://alternativeto.net/">Submit</a>
+      <a class="button" href="https://tmpacc100.github.io/shiori/">Product URL</a>
+      <a class="button" href="https://tmpacc100.github.io/shiori/">Install</a>
+      <a class="button" href="https://tmpacc100.github.io/assets/social/shiori-square.png">Asset</a>
+    </div>
+  </div>
+  <pre class="copy-box">「栞」は、青空文庫の名作を縦書き、ルビ、読書統計つきで読める読書アプリです。短い読書時間でも続けやすい体験を目指しています。</pre>
+</article>
+<article class="directory-card low">
+  <div>
+    <p class="muted">free_account_required / low / ready_after_alternativeto_account_age_allows_submission</p>
+    <h2>AlternativeTo - えらんでタイパ</h2>
+    <p>Submit as a software/application entry so people searching for alternatives can discover the app.</p>
+    <dl>
+      <dt>Title</dt><dd>えらんでタイパ</dd>
+      <dt>Tagline</dt><dd>ぜんぶ効率じゃなくていい。</dd>
+      <dt>Tags</dt><dd>time design, wellbeing, productivity, reflection, iOS</dd>
+    </dl>
+    <div class="hero-actions">
+      <a class="button primary" href="https://alternativeto.net/">Submit</a>
+      <a class="button" href="https://tmpacc100.github.io/erande-taipa/">Product URL</a>
+      <a class="button" href="https://tmpacc100.github.io/erande-taipa/">Install</a>
+      <a class="button" href="https://tmpacc100.github.io/assets/social/erande-taipa-square.png">Asset</a>
+    </div>
+  </div>
+  <pre class="copy-box">「えらんでタイパ」は、1日の時間を効率タイムとじっくりタイムに分けて記録する時間デザインアプリです。効率化を強制したり、スマホを禁止したりするのではなく、自分で選んだ時間の使い方と満たされ度をふりかえります。</pre>
+</article>
+<article class="directory-card low">
+  <div>
+    <p class="muted">free_account_required / low / ready_after_alternativeto_account_age_allows_submission</p>
+    <h2>AlternativeTo - あさゆとり</h2>
+    <p>Submit as a software/application entry so people searching for alternatives can discover the app.</p>
+    <dl>
+      <dt>Title</dt><dd>あさゆとり</dd>
+      <dt>Tagline</dt><dd>朝のゆとりが数字で見える。</dd>
+      <dt>Tags</dt><dd>morning routine, countdown, Live Activity, productivity, iOS</dd>
+    </dl>
+    <div class="hero-actions">
+      <a class="button primary" href="https://alternativeto.net/">Submit</a>
+      <a class="button" href="https://tmpacc100.github.io/asayutori/">Product URL</a>
+      <a class="button" href="https://tmpacc100.github.io/asayutori/">Install</a>
+      <a class="button" href="https://tmpacc100.github.io/assets/social/asayutori-square.png">Asset</a>
+    </div>
+  </div>
+  <pre class="copy-box">「あさゆとり」は、朝のルーティンと出発時刻から、いま何分の余裕があるかを表示するアプリです。おでかけモードではロック画面やDynamic Islandに出発カウントダウンを表示できます。</pre>
+</article>
+<article class="directory-card low">
+  <div>
+    <p class="muted">free_account_required / low / ready_after_alternativeto_account_age_allows_submission</p>
+    <h2>AlternativeTo - かうまえ</h2>
+    <p>Submit as a software/application entry so people searching for alternatives can discover the app.</p>
+    <dl>
+      <dt>Title</dt><dd>かうまえ</dd>
+      <dt>Tagline</dt><dd>買うまえに、ひと呼吸。</dd>
+      <dt>Tags</dt><dd>shopping checklist, budgeting, consumer decision, iOS</dd>
+    </dl>
+    <div class="hero-actions">
+      <a class="button primary" href="https://alternativeto.net/">Submit</a>
+      <a class="button" href="https://tmpacc100.github.io/kaumae/">Product URL</a>
+      <a class="button" href="https://tmpacc100.github.io/kaumae/">Install</a>
+      <a class="button" href="https://tmpacc100.github.io/assets/social/kaumae-square.png">Asset</a>
+    </div>
+  </div>
+  <pre class="copy-box">「かうまえ」は、買う前の迷いや条件を整理する買い物台帳アプリです。カテゴリ別チェックリストに加え、任意のClaude APIキーを設定すると商品ごとのAIリサーチガイドを生成できます。</pre>
+</article>
+<article class="directory-card medium">
+  <div>
+    <p class="muted">unknown_or_paid_listing_possible / medium / ready_after_listing_plan_review</p>
+    <h2>Startup Stash - ClipNest</h2>
+    <p>Submit as a tool for makers, productivity users, or education workflows.</p>
+    <dl>
+      <dt>Title</dt><dd>ClipNest</dd>
+      <dt>Tagline</dt><dd>Clipboard history and snippets, local on your Mac.</dd>
+      <dt>Tags</dt><dd>Mac productivity, clipboard manager, snippets, privacy, local-first</dd>
+    </dl>
+    <div class="hero-actions">
+      <a class="button primary" href="https://startupstash.com/add-listing/">Submit</a>
+      <a class="button" href="https://tmpacc100.github.io/clipnest/">Product URL</a>
+      <a class="button" href="https://apps.apple.com/us/app/apple-store/id6777420616">Install</a>
+      <a class="button" href="https://tmpacc100.github.io/assets/social/clipnest-square.png">Asset</a>
+    </div>
+  </div>
+  <pre class="copy-box">ClipNest keeps clipboard history and reusable snippets local on your Mac. It is designed for fast search, pinning, and text expansion without accounts or network access.</pre>
+</article>
+<article class="directory-card medium">
+  <div>
+    <p class="muted">unknown_or_paid_listing_possible / medium / ready_after_listing_plan_review</p>
+    <h2>Startup Stash - GoNihon</h2>
+    <p>Submit as a tool for makers, productivity users, or education workflows.</p>
+    <dl>
+      <dt>Title</dt><dd>GoNihon</dd>
+      <dt>Tagline</dt><dd>Belajar bahasa Jepang untuk kerja di Jepang.</dd>
+      <dt>Tags</dt><dd>Japanese learning, Indonesian speakers, offline education, interview practice</dd>
+    </dl>
+    <div class="hero-actions">
+      <a class="button primary" href="https://startupstash.com/add-listing/">Submit</a>
+      <a class="button" href="https://tmpacc100.github.io/gonihon/">Product URL</a>
+      <a class="button" href="https://apps.apple.com/id/app/apple-store/id6778385065">Install</a>
+      <a class="button" href="https://tmpacc100.github.io/assets/social/gonihon-square.png">Asset</a>
+    </div>
+  </div>
+  <pre class="copy-box">GoNihon helps Indonesian speakers study Japanese for work in Japan with offline vocabulary, listening, mock tests, and interview practice. Progress, XP, and streaks work without an account.</pre>
+</article>
+<article class="directory-card medium">
+  <div>
+    <p class="muted">free_account_required / medium / ready_after_indie_hackers_login</p>
+    <h2>Indie Hackers Products - ClipNest</h2>
+    <p>Add product profile and connect it to a founder post about local-first Mac utilities.</p>
+    <dl>
+      <dt>Title</dt><dd>ClipNest</dd>
+      <dt>Tagline</dt><dd>Clipboard history and snippets, local on your Mac.</dd>
+      <dt>Tags</dt><dd>Mac productivity, clipboard manager, snippets, privacy, local-first</dd>
+    </dl>
+    <div class="hero-actions">
+      <a class="button primary" href="https://www.indiehackers.com/products">Submit</a>
+      <a class="button" href="https://tmpacc100.github.io/clipnest/">Product URL</a>
+      <a class="button" href="https://apps.apple.com/us/app/apple-store/id6777420616">Install</a>
+      <a class="button" href="https://tmpacc100.github.io/assets/social/clipnest-square.png">Asset</a>
+    </div>
+  </div>
+  <pre class="copy-box">ClipNest keeps clipboard history and reusable snippets local on your Mac. It is designed for fast search, pinning, and text expansion without accounts or network access.</pre>
+</article>
+<article class="directory-card low">
+  <div>
+    <p class="muted">free_account_social_auth_required / low / ready_after_registered_socially_authenticated_account</p>
+    <h2>Crunchbase - ClipNest</h2>
+    <p>Use tmpacc100 Apps as the organization/profile anchor, then link the portfolio and public app catalog.</p>
+    <dl>
+      <dt>Title</dt><dd>ClipNest</dd>
+      <dt>Tagline</dt><dd>Clipboard history and snippets, local on your Mac.</dd>
+      <dt>Tags</dt><dd>Mac productivity, clipboard manager, snippets, privacy, local-first</dd>
+    </dl>
+    <div class="hero-actions">
+      <a class="button primary" href="https://www.crunchbase.com/add-new">Submit</a>
+      <a class="button" href="https://tmpacc100.github.io/clipnest/">Product URL</a>
+      <a class="button" href="https://apps.apple.com/us/app/apple-store/id6777420616">Install</a>
+      <a class="button" href="https://tmpacc100.github.io/assets/social/clipnest-square.png">Asset</a>
+    </div>
+  </div>
+  <pre class="copy-box">ClipNest keeps clipboard history and reusable snippets local on your Mac. It is designed for fast search, pinning, and text expansion without accounts or network access.</pre>
+</article>
+<article class="directory-card low">
+  <div>
+    <p class="muted">paid_service / low / prepared_not_purchased</p>
+    <h2>SubmitJuice - ClipNest</h2>
+    <p>Paid outsourcing option for broad directory submission after manual high-priority listings are done.</p>
+    <dl>
+      <dt>Title</dt><dd>ClipNest</dd>
+      <dt>Tagline</dt><dd>Clipboard history and snippets, local on your Mac.</dd>
+      <dt>Tags</dt><dd>Mac productivity, clipboard manager, snippets, privacy, local-first</dd>
+    </dl>
+    <div class="hero-actions">
+      <a class="button primary" href="https://www.submitjuice.com/">Submit</a>
+      <a class="button" href="https://tmpacc100.github.io/clipnest/">Product URL</a>
+      <a class="button" href="https://apps.apple.com/us/app/apple-store/id6777420616">Install</a>
+      <a class="button" href="https://tmpacc100.github.io/assets/social/clipnest-square.png">Asset</a>
+    </div>
+  </div>
+  <pre class="copy-box">ClipNest keeps clipboard history and reusable snippets local on your Mac. It is designed for fast search, pinning, and text expansion without accounts or network access.</pre>
+</article>
+  </section>
+</main>
+</body>
+</html>

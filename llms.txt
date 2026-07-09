@@ -12,6 +12,7 @@ tmpacc100 Apps is a set of indie apps for time design, morning routines, shoppin
 - Outreach Kit: https://tmpacc100.github.io/outreach/
 - Share Kit: https://tmpacc100.github.io/share/
 - Install Kit: https://tmpacc100.github.io/install/
+- Directory Kit: https://tmpacc100.github.io/directories/
 - Articles: https://tmpacc100.github.io/articles/
 - Campaign links: https://tmpacc100.github.io/go/
 - Machine-readable app catalog: https://tmpacc100.github.io/apps.json

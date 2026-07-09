@@ -441,5 +441,10 @@
     "page": "https://tmpacc100.github.io/install/",
     "json": "https://tmpacc100.github.io/install.json",
     "csv": "https://tmpacc100.github.io/assets/downloads/tmpacc100-install-links.csv"
+  },
+  "directoryKit": {
+    "page": "https://tmpacc100.github.io/directories/",
+    "json": "https://tmpacc100.github.io/directories.json",
+    "csv": "https://tmpacc100.github.io/assets/downloads/tmpacc100-directory-submissions.csv"
   }
 }
