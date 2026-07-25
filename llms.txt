@@ -6,13 +6,8 @@ tmpacc100 Apps is a set of indie apps for time design, morning routines, shoppin
 - Apps: https://tmpacc100.github.io/
 - News: https://tmpacc100.github.io/news/
 - Links: https://tmpacc100.github.io/links/
-- Use cases: https://tmpacc100.github.io/use-cases/
 - Press Kit: https://tmpacc100.github.io/press/
 - Media Kit: https://tmpacc100.github.io/media-kit/
-- Outreach Kit: https://tmpacc100.github.io/outreach/
-- Share Kit: https://tmpacc100.github.io/share/
-- Install Kit: https://tmpacc100.github.io/install/
-- Directory Kit: https://tmpacc100.github.io/directories/
 - Articles: https://tmpacc100.github.io/articles/
 - Campaign links: https://tmpacc100.github.io/go/
 - Machine-readable app catalog: https://tmpacc100.github.io/apps.json
@@ -28,19 +23,3 @@ tmpacc100 Apps is a set of indie apps for time design, morning routines, shoppin
 
 ## Contact
 - Email: asd95179517@gmail.com
-
-## Use Cases
-- タイパ疲れを減らす時間デザインアプリ: https://tmpacc100.github.io/use-cases/taipa-time-design-app/
-- 満足度でふりかえる日記・習慣化アプリ: https://tmpacc100.github.io/use-cases/daily-reflection-satisfaction-app/
-- 朝ルーティンと遅刻防止の出発カウントダウン: https://tmpacc100.github.io/use-cases/morning-routine-countdown-app/
-- Live ActivityとDynamic Islandで朝の支度を見守る: https://tmpacc100.github.io/use-cases/live-activity-dynamic-island-countdown/
-- 買い物チェックリストで比較と検討を整理: https://tmpacc100.github.io/use-cases/shopping-checklist-before-buying/
-- 衝動買いと後悔を減らす買う前メモ: https://tmpacc100.github.io/use-cases/reduce-impulse-buying-regret/
-- ピアノの自動譜めくりと楽譜追跡: https://tmpacc100.github.io/use-cases/piano-auto-page-turner-score-following/
-- MusicXML/MXLで練習できる楽譜アプリ: https://tmpacc100.github.io/use-cases/musicxml-mxl-piano-practice/
-- Mac clipboard manager with local clipboard history: https://tmpacc100.github.io/use-cases/mac-clipboard-manager-local-history/
-- Snippet manager and text expander for Mac: https://tmpacc100.github.io/use-cases/mac-snippet-manager-text-expander/
-- 青空文庫を縦書きとルビで読む読書アプリ: https://tmpacc100.github.io/use-cases/aozora-bunko-vertical-reading-app/
-- 読書習慣を続ける本棚・読書記録アプリ: https://tmpacc100.github.io/use-cases/reading-habit-bookshelf-tracker/
-- Belajar bahasa Jepang untuk kerja di Jepang: https://tmpacc100.github.io/use-cases/belajar-bahasa-jepang-kerja-jepang/
-- Belajar Jepang offline: kosakata, wawancara, dan mock test: https://tmpacc100.github.io/use-cases/belajar-jepang-offline-kosakata-wawancara/
