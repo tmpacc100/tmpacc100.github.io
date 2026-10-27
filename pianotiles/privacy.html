@@ -29,6 +29,7 @@ th{background:#f5f5f5}
 <tr><td>ランキング情報</td><td>表示名（初期値は「User#数字」）、アバター、レベル、国、スコア</td></tr>
 <tr><td>曲のリクエスト</td><td>曲リクエスト機能で送信した文章と表示名</td></tr>
 <tr><td>画面操作の記録</td><td>Microsoft Clarity による操作の記録（文字入力欄などはマスクされます）</td></tr>
+<tr><td>インストールの経路</td><td>Apple 広告（Apple Search Ads）経由でインストールしたかどうかと、その広告のキャンペーン・キーワード（iOS のみ。Apple の AdServices の仕組みで Apple から受け取ります）。広告以外のリンクから来た場合は、リンクに付けた媒体名（YouTube など）</td></tr>
 <tr><td>購入情報</td><td>アプリ内課金で購入した商品と購入結果。支払い情報（カード番号など）は Apple / Google が処理し、本アプリは取得しません</td></tr>
 </table>
 
@@ -50,6 +51,7 @@ th{background:#f5f5f5}
 <tr><td>Amplitude</td><td>Amplitude, Inc.</td><td>利用状況の分析</td></tr>
 <tr><td>Microsoft Clarity</td><td>Microsoft Corporation</td><td>画面操作の分析</td></tr>
 <tr><td>Amazon Web Services</td><td>Amazon Web Services, Inc.</td><td>楽曲データの配信（利用者を特定する情報は送信しません）</td></tr>
+<tr><td>Apple AdServices</td><td>Apple Inc.</td><td>Apple 広告経由のインストールかどうかの判定（iOS のみ）</td></tr>
 <tr><td>App Store / Google Play の課金</td><td>Apple Inc. / Google LLC</td><td>アプリ内課金の処理</td></tr>
 </table>
 <p>これらのサービスは日本国外（主に米国）のサーバーで情報を処理することがあります。</p>
@@ -62,7 +64,7 @@ th{background:#f5f5f5}
 </ul>
 
 <h2>4. トラッキングと広告</h2>
-<p>iOS では、初回起動時に App Tracking Transparency のダイアログで、他社のアプリやウェブサイトをまたいだトラッキングの許可をお尋ねします。許可しない場合も本アプリは利用でき、広告識別子は取得されません（広告は表示されますが、利用者に合わせたものではなくなります）。設定は iOS の「設定」→「プライバシーとセキュリティ」→「トラッキング」からいつでも変更できます。Android では端末の設定から広告IDの削除・リセットができます。</p>
+<p>iOS では、初回起動時に App Tracking Transparency のダイアログで、他社のアプリやウェブサイトをまたいだトラッキングの許可をお尋ねします。許可しない場合も本アプリは利用でき、広告識別子は取得されません（広告は表示されますが、利用者に合わせたものではなくなります）。許可の有無にかかわらず、アプリの改善のための利用状況の分析（上記 3 の解析サービスへの送信）は行いますが、許可しない場合は、他社のデータと結びつけた広告目的（Google シグナルによる広告のパーソナライズを含む）には使いません。分析への送信は 5 の方法で止められます。設定は iOS の「設定」→「プライバシーとセキュリティ」→「トラッキング」からいつでも変更できます。Android では端末の設定から広告IDの削除・リセットができます。</p>
 
 <h2>5. 利用データの送信の停止</h2>
 <p>本アプリのプロフィール画面の「利用データの送信」をオフにすると、解析サービス（Google Analytics for Firebase・Amplitude・Microsoft Clarity）への送信を停止できます。</p>
