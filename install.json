@@ -70,8 +70,8 @@
       "message": "ピアノ演奏を端末内で解析し、楽譜上の現在位置を追いかけるiPhone/iPadアプリ。"
     },
     {
-      "app": "ClipNest",
-      "slug": "clipnest",
+      "app": "CopyLoft",
+      "slug": "copyloft",
       "platform": "macOS",
       "language": "en",
       "install_status": "store_live",
@@ -80,10 +80,10 @@
       "store_url": "https://apps.apple.com/us/app/apple-store/id6777420616",
       "app_store_id": "6777420616",
       "country": "us",
-      "x_tracked_url": "https://tmpacc100.github.io/go/clipnest/x/",
-      "reddit_tracked_url": "https://tmpacc100.github.io/go/clipnest/reddit/",
-      "email_tracked_url": "https://tmpacc100.github.io/go/clipnest/email/",
-      "asset_url": "https://tmpacc100.github.io/assets/social/clipnest-square.png",
+      "x_tracked_url": "https://tmpacc100.github.io/go/copyloft/x/",
+      "reddit_tracked_url": "https://tmpacc100.github.io/go/copyloft/reddit/",
+      "email_tracked_url": "https://tmpacc100.github.io/go/copyloft/email/",
+      "asset_url": "https://tmpacc100.github.io/assets/social/copyloft-square.png",
       "message": "Macのクリップボード履歴とスニペット展開を1つに。ネットワーク権限なし、買い切り、ローカルファーストなmacOSユーティリティ。"
     },
     {
